@@ -1,0 +1,2156 @@
+{
+  "date": "2026-09-28",
+  "projects": [
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\lucasrouter",
+      "pack": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04",
+      "title": "RouteIQ / lucasrouter"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\perch",
+      "pack": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04",
+      "title": "Perch"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject",
+      "pack": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04",
+      "title": "Grok multitenant project"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\gitjira-app",
+      "pack": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04",
+      "title": "GitJira"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar",
+      "pack": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04",
+      "title": "Bazaar"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\astra1",
+      "pack": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04",
+      "title": "Helios / astra1"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1",
+      "pack": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04",
+      "title": "aaa1 CRM"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\buildevent",
+      "pack": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04",
+      "title": "BuildEvent"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\buildermentor",
+      "pack": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04",
+      "title": "ShipShape / buildermentor"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\astraspacegameweb",
+      "pack": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04",
+      "title": "Warband / astraspacegameweb"
+    }
+  ],
+  "sizes": [
+    {
+      "project": "RouteIQ / lucasrouter",
+      "before": 39954,
+      "added": 56581,
+      "total": 96535,
+      "multiple": 2.416
+    },
+    {
+      "project": "Perch",
+      "before": 39404,
+      "added": 56253,
+      "total": 95657,
+      "multiple": 2.428
+    },
+    {
+      "project": "Grok multitenant project",
+      "before": 38962,
+      "added": 56056,
+      "total": 95018,
+      "multiple": 2.439
+    },
+    {
+      "project": "GitJira",
+      "before": 39525,
+      "added": 56323,
+      "total": 95848,
+      "multiple": 2.425
+    },
+    {
+      "project": "Bazaar",
+      "before": 39298,
+      "added": 56328,
+      "total": 95626,
+      "multiple": 2.433
+    },
+    {
+      "project": "Helios / astra1",
+      "before": 39255,
+      "added": 56291,
+      "total": 95546,
+      "multiple": 2.434
+    },
+    {
+      "project": "aaa1 CRM",
+      "before": 39349,
+      "added": 56154,
+      "total": 95503,
+      "multiple": 2.427
+    },
+    {
+      "project": "BuildEvent",
+      "before": 38896,
+      "added": 56000,
+      "total": 94896,
+      "multiple": 2.44
+    },
+    {
+      "project": "ShipShape / buildermentor",
+      "before": 39026,
+      "added": 56056,
+      "total": 95082,
+      "multiple": 2.436
+    },
+    {
+      "project": "Warband / astraspacegameweb",
+      "before": 39593,
+      "added": 56090,
+      "total": 95683,
+      "multiple": 2.417
+    }
+  ],
+  "files": [
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\README.md",
+      "sha256": "a4dc645faba6d240aa52d9216cb76d8ad6d741254cc008b2c989769c52ae5b64"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "8816d134382cef5c1e7dbcc51490583479156a99fe45a44aca9b5e7a71c3e985"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "a1f87dbdde1008ad71a7e32a28844bb6df91059849ece595e761a7fe3cb06d05"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "1ed8a22e124ecaeb74dbd6e92cff873e073802b349d672e2d84de653c7dc1833"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "ad32ddb5bc975ad8fcd85b8b6cb38c8ec0d0f2da62fc18954aab2409f1063302"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "efcb7b369b65e20a9640de6ce944da4b0a58ae05b2ae998148394df32fd37b5f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "e0295c75ec42e72ec816311cdeb670d34d53d6903764accb2571149d59b81193"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "bbe1e162c3fd291fcc7e57dcfd7e610ecd63bf2c0dcc38ff4a8f21867e1708fd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "afcd85964131d6637364feb89492d71af48c0b919f218414f53a67a50fa120cf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "bd9f189a49118b3163373474a2c9998239cd5fa1cb6ecb9e656a59d74c2454bf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "3d8727117fb39c38ddca9cefddbbae7471fb420a6575499a52e9d3e40262f975"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "c041855a9107d3412e9bdd4f3e39bd487bbfd96f58afc36c593a2302229105b3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "9db93fa231c4c2a8c4ec1023e93a43e44a5e8a441cd8c25676c88fcf463cad84"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "8ac18ba3fcf03ac33ea5ed6965dca9c46b25773b19e68ebe3ff4a4fb39e1f8ec"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "ef42e5c098d449adc696d1d08d021fecb07490394fbcb2f8bc36d9dea8349022"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "74e9436c06f088c4b19b1c43012ae806086f06e3a56e0937e64d7d534f4db2fa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "25908413c01ec44095c95b3c9a7e71f878d6b69ae658ee85dd57999f5c467bf1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "d3f66d48410fb813635826c5ed50de6166df1bad6e72de42d1990af78981e3bb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "16bde831e7da6e68c9b52cbfd082950a6aec0a2a54c2350c446e4a0d69acc067"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "23e9bf451afc048bc25f20a8b7b365ca76c9543e273cea1137764e860bbb7c81"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "1d59a923c0e201425631f8e2dcab8d86587d387d0362ae02bff28a71642f7ece"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "fec1a171c53068c6345be57f929d468e642b6206aa5910f99d5d8ccdb02bba63"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "1ebc07ea65fdc1fd1e58e3c7ea0074c46b6d7aede5ae158f3e9d67c4fae3c2fe"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "7977e139d96848966f6c3f4d2f2443a1f9988b3c8953a254bac56d0143d2bad9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "2e1b188aa67881d1d34469d422696df5fd5cf023bff30c551d897a072aeadc48"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "de13e9249d7419b6cac59348cd91f00b3683c20bd89c8041f31c3596cc0e6af6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "71066bcb17174ce232fd72bc70a32cd2f178364d6288e43b2108ba3843e39478"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "40031b12f99e43952ca97be1cef2c855a9ba392cd7c500e205826e93f28917f5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "8a329da992a0b6fd9b86d09a1c11ec36e63f0a7af6b66d70c3aaa1dfdce24794"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "ec60907114224bc42ae6a590f8d3d6784444aba2f5a6b22ba3d29eb035db5fe2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "68880766389bb4f6ee99be8cf1e7bde69b13bd2f873f29fdd3c159e8cf13300a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "c14ae13d77cb4ecf42c29870e6248858cea12feda95b0c10c1d1a3c9f8e46b0d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "e512264c11e254a79d75d9fc05f7412c98500c63ce31a4f13a768d0190594b4f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "50ef9df4c9c6284facefe153e09f082957f07e3e90f474f6d99fcba72bae5bfa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "7ab9e0dbe487ea8b03aa577a7e6567605d8e2a3d87b3af7fb722d3237619eed8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "4f8ff62d9bae57a63a800cd215e495af6b001aa6b7995c1d7c0edddaf4232712"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "64c01fa5a911499ad5b52d5bb61b7825527503d1858e1296e9ab70f05685bfbd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "5f01b3929575d6de585e98777972014e4695b5503c011704248630426ddd8e30"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "f06874c0e3fe3d7229b19585074f0bc4508f0cf17ec8d5a6730ec68ba48dac3d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "2199e9b4a94d4b2d57e2367156340e1ada676e3242bf09ac329f5948a7ee6dd2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "46d518eda09c26331cdd551132c50bd28beb02d6200a6f303e5383d1530df902"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "03a4ab73909d6d0f0fa00ef4b4ad5b0b696e38d6e03c8c674b8fdcde07e9d514"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "dd03e55998a62864c7e1dff7aafea50caf34dfc757d21375684d9df8f28f7994"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "711b21e7db76b91e8d6965b00596ce0f0c60bab8675b533fd40c8d2e61614572"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "c58e104a4ccd3c10e144ad9a7543c15e22856686ed2733072f4038227c9c6b4a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "b9a5d088e74a179d141eb89fc998fe829a55c45ff148209d472f2f923c9863e4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "23d7e67524bb527c105637a24bdafa2f1fcdd7647ab3e0a38e1d05eae2a86836"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "0c75403c0d18acebfd8a1fbbb000c2e16b69f68a429f91c1d1a4cde1613c18d9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "1bb6e20d0faaf51456986742da9bb5ff842eb10b4a8877e098da53c3513e65f3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "6741916724d831a39afa6c6654ea0c85ef45459e6489dfc29cb297bf83174f8b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\README.md",
+      "sha256": "8bb48aaa84ac7f29ffaa2c3b3f3a7c790e308f403f7b51b1698ada57ca7b1677"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "ac0c4ee1d212dda13753e775ec9072ab6ff47808848ce976b433b91e330d0814"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "2a55b0cbb11c2f217f0acc7ee489fb3325b189f830ad99ef35c8f42ddaf924c3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "9d39285ee3b287f1bc2b9318a5065292d79f09a905f001d681b977ea57304ff3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "edb1ee6059e06118b6ea0236936ec971586a2f47f8ebd503c2b743fbb9056371"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "98588cac259d74245cb25bd583b3eb530d52b853e9ba3930cb99260964437c32"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "77f4f0e050f0332d103d89f576d5ce0d3a3190debc56ad4e17e21ff796a44d40"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "dda642f49d0a11877663fe6b65ce19a2281dcfe1ae934a0548bd9cd92f05b43f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "b338bf175313fc99984c12e68a6c92250c5c1a92b3b0ad314bbf5dc3cf4d5cbc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "c9cc78bab8771c04d9346cacb104657807633ca64d0390eb94f2181e885c87b6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "27863d669a19a6d9b673c2c2b3511381b7146ebae441f56570271fa4fbc1f42f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "47d3f141510ed55ab4ad51effa0af319357ef0e430c1ae9237e11e5345631e6b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "b6bf17da9bd37239da1501cda459b3ab57ca9a6d6f218c4fdf322ef58302870b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "4ef8fe2decd27ac98bd67ec97ac9993dbb1b123ed241f5cf962834169cd2011b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "841effa12c95e7c036626272d9e7309fe92c4a3ac1a3448b81bfc435ab5e74eb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "a17d506b957405d42674abe9440fb24ba414885a9f02079e7b23032b99445c71"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "502d5c1aaca47c654329c39c26a211aed4ac587bb0d5981ad0d06d7f8d853378"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "3da20f91153b852bcde0bc913e0fb651dd72d38c791ced9555ee0efa930f2e88"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "98a8cb7af5c4176775e705a5af2cc221e92b0043fd87129918b33d0d62a7b76a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "c29e989cbe69349b66acc7d777a56af0aa63fa79a73753d31c062312ed582ee5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "e0ca50cffb2f71f0cae982e794474d4a2338b3d1beeb46be356c261406bc012f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "e05a4679c6ebc8c2e6aecd8000685d6e7bad839c79f74ff9f581718de3164043"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "d36dc6c11a629b5983b0c6120d5b7e1391981815da1c5211f3d31ba024fad079"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "ad4f097604d30bb15a400bab8dadfd623a8c8147a3bb548d30a0fd51a3faee51"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "b5329392529f6864a9b7cafd01c0ad485115900f2f136039c858442e5c6abb0f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "8ee727b87675ef996e63e4a80c02437e5de232306a08829088265a05a07c74ad"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "319a78d32933ad428028a74735d577105868adc0a789e7faea086b241e0f1248"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "4dc29cf6005afcad3dd683620d550191fd5f3d6ff5d9d0f419d0de1469a988b7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "b52f618122c76f823d4bc4e356759423a01537c964fc0edaf5fc4c0e39398e9e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "b0321ffdd297299d5d362ad6750e447380bb4411f194a14993491e7be3efc813"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "e9c13ac66b55bd68d0a79f92830cb158746b850d1b589172e86ca87bd621973a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "074d8f050146ba78aaacd729b46574729582c50063dc8974f74a70d71af10381"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "f8ff09bcebd271f1e1ded2f9b990f8f29b50a10857d79d932c2daa3bb23c0d75"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "49041ecc282579f40a297cd0be7b135dce4877435d57c6a334be92becfd35e86"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "565daac249121bbd840de211c7b8eb9ff8c9de015013663585433b0c02157ea6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "1d9247e95cfc43b95cf52aa9598c1c7bc6ea1ca821ca59804f419222e13d9e71"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "d0b2c167bafa8bb6afa47d88bc4df1daf1c49a81920bf787930a1ed1eedc0e78"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "a1ae688a254a8014bda56aa2ab658c418677973e6af2e7bb7a76e70e33bd831a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "b72fa87168ba17646157a7696afcc16eb90c92b0cd00df1cf429efb25201a4d2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "ea1eb5048a096e3942af3d1bf7eac07f12fa5ef4af9512767a661a8f87ea620c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "f28019b7d5800cd2c8d5f76b6c8cf9da51b8a9e6c12c1e030ff30b1571f49b91"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "3dd472109409835c190b36e337041885b45348a942e759c6226949af3f9b98ae"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "0ffd71722e9c68d3023d59b177cd8a9e39eb0abbd010a82c11ad8b7cec8cf3fc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "57d0ede928feb15f11709baaf6f16a831ca955097f8b2421ba697217bf21e267"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "a150e70974c919820ad18ad1835fc5fd65f05e368d983eb2a7d286f35a117059"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "c63211805d12827069748dffe8b5a9d277384e5b5f52fada8eab9316f4d3fcff"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "a13e26b7849be42b51060b496f144e16cb11af115acd255193efdd7fb049fa59"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "06e7a15a3e0c2cb352b9c480aa607a1d9f16de005f204f5a5e195b3372dba331"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "d2d4493e8d390a34f8472d14ca4152f71f1258f51eda2d674076d7cb5d92904c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "ce44587297737ba3d1c599d39666a435ece294f428e9bf6a0ed50ebcb54c1be5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\README.md",
+      "sha256": "8a5c0dd6ccf4058ac78f5fd55fff147c122a01d4cc5abd1aa8884eabdfd24688"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "cf97bf4f260507e99ca6c897ce6217b9f508ab183b3da969341162acd6ff4a7a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "2860df56c7116c33c669291a9aba178bde0ad5d709507c0753f28b0e6c311979"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "774f7df8b6984b5f98f7b4613319f90fe2c833f6cf5f15b8660377d1129e8e5f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "55df9fc98f4f8a0d31a44e54164e3b001adc1e3ae6e74e7b68476790a348faea"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "881bd9890edb028937db9895fe177350cd4d78ebe09bc8985dce8635cfed97a3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "bc88b472781aba6823edea38632affa834e96cc18b8f63398e69d8fe54d01f83"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "8b2963dff3976da4f240aa6eb12b87a08aefe5789ba60338db6bac924ad49533"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "ca99839f598dcceb29e40d67328811fcd20ac7f31aa4ef0a002f7a1512d1bd03"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "b4b11b34db203b96ce16a49c16319ec0037920fb468ac461ab0f4e0411782b3f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "b5ce246117a3aa189d57454f8e010220725ee903ce5e8bd5a3c6914fdf513ee9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "18fef33e083b4387c275ab5714da48cb27827361426fb3611326485e71a509c6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "6d615fc2beb0ac0141d7958e87337004e540945991c7105acc25163722e79b1d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "ce806e0a76613b00586848f5b4bbdf30d8bc86191718373532b783d016d8e287"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "569c550d8a1f3692c4b6699e7ec06cefeccc1361b8fe78e6aa98e8e9eda05b4c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "0009edea2b0b2f50fb4e35e63f7d9ed47426691c04cfcc2d10a2fbf450d87ef1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "eaed4150c1fe18d57cb175e682c7b0c92aa92ea8073c6d133bd5848f9ee9fe34"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "c38916f5857487b13e41f907466ba97af6f8e5d32a845e3cdc136bd4d87e499d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "def1b4aa8d821d3ada243bba5c7ff52185632f72ba45a6d8408622888ba9f75e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "97b7fd3f6c2273bc1ed9669d520f25e44a0f83ceb84132cc78552ab93518a081"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "4e748a9ed98753b8fddc04e9e9d3f2f428c480a6088a89065fe70564637d217e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "a1bd9c7dde9eb726141598feb3f057005aeed155310f838ef6e0e9d5fac61aba"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "4a421a32978a2103c4fedfbb7841afc7eb85f97108246b73f2ab29bc485ec0a4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "a68796907c390b7ce8fcd781ebda6c2ea0d8c305e2750c1344143afc11a07cdb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "88cb08328b18e7ece329ecb1ccf9500b442f068a057bb335bc8041ad233312e0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "2f636fc7c8818501998f5d0183e425901759ecda3b0c27a7a8b48cdb53430014"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "c9e7ff427cee20e25d0920e42dbe3bfdaa236466fd97b5954e52f5d637dfdbfe"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "232070d73a750432a563812ecaf0538accb856db7147e4e6ab1b90ca8e112b75"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "84c73219fc91252141abea0d4f589ed5382302b8068b74c81245a9488c57c157"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "440904d19b3312dea310ee5f13b7f865f24192c76ac5f4f7cab2dfc1a65815c2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "860cc0eb10798dbef91c1f72b1e9bf003ac8b697682c0c0a00daf6d175b3d1ba"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "15dfd7274b3170b7b2ee569cdcaab79ad655ed884b261f7f4403fa82dd8780d7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "d5773ce988361d354b57271a054753a21cf1ae6909ed2aabd4a642fea74924e8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "188d2c45bf82548d7fbc2ea43f7a618b22b2c749c867f0f4a8ee5992cf90c649"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "c4e16109842b0905e431da2182bb99c4815c36ee44a1ee5e23e470b21565b87e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "c90212f28da5b704abfbf3d52fd68d4bef7d6c1074b4acc215e296cb5953e998"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "071d055ff9b1f4697ab151be067d9c65286a80b4f6a0c3b0ebb6f97d8ee03b53"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "51641eff3cc84f278d07e0815b358c43bdd0a43eb340fe1c516b08f0bf7ce5ed"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "e9f7d7073fa5c97f50e72103357597668091eb290fdff7765ddf177cc671facf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "8506b52e4f673afc0f23a521e357852572835df7a11ede0d974877420b896fac"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "afa76c61100beffe4410e850950840511661a7019942ca8bc379170cdcf93105"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "8f9224ecb8e3f80c3a54fa3bde294e47585f42af5b3d47a8b46bbf6dfd3b1c0e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "5b7eb06dfb9fccf0d1c93370531d4e5bd92645d83e246839ca681d5535e94ebe"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "003e1b14fda371f78dc78914d691374195c2b2b3d38724b8b94cccef44506eb9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "ecedd385d04c8a7b941aba8c294d787fdcd9b3defeb0add43bb5934ba11313da"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "f696a6fd4d6e46cb91f7462a8672f4ffa7a6313bfe915aefbca71d2be663ca54"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "38fdad0dda97a1302b3ee88850259998255ee9d7b899a4185bd81cdf5e9f86dd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "89197d1aed1215975ee121b369fbf183d872a3874dbe65d2d7516188a75427df"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "3723f95957900145719af5ad1db0915f98f684c351b8c4d9403b23d529a76bdb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "a00e472a81c12e3b47e690ce67640fc25cdad3e005cdb2aec846aa4e8ebd0e50"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\README.md",
+      "sha256": "b0e3323d506023cabf683e950c8f0bbe80b61f3d4324db4c99451999800a75ee"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "131b0664dbfedb64eb749b50748117d8568862625aa75117cd7306c5d21e5d7f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "b626a88a489b6378815e3682c12d718e172dce1e505a5ba75dddef91af62bab5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "8530ab7043296b032de9cb589a1656755900b9dc3014765edb5fe46be0ac76d0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "62d9fc8e87f6b248055c0027cd5fb30dc5ae2aaadc08ec2cf8b2c957ca462380"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "3401debfc6d2b1f034e2c7c915ffcc94006181cea4f296c7aecdcf6fa772eb66"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "8cce6a8052a7416186617b25d46e1d7e3fb9015d473d19bef6f2aedad06e82b2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "0940dc0ed56525459c49cdc0724579ab15147c7b3886551e8cb7c91a4b821635"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "b79c6bc55a07954ad1e208e27b740c8da72d9e035abaa33c2c3f3a7552b645e1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "8a35a650ee1d05c1f0ee365259316cdbe4afc41b687ae7c6cdee1e7875cfae26"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "f653b9b22c9feef15665cf9c7ff4ab6d08c61a111523016d15ed25325d4e72e1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "6aa37fbfe24d644322e01e3140e0e1ea95b84191855f1dcc42c2038881424f8c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "fa59026e38cf39022380af188f37b3896effc3cc10228079196db2e9ca4b1ba1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "9e16978e560ff27f86b0516f548882b586d4bd9ec548419a689fbf1434fcbcba"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "ec6dd96e06f3b8a16a703edddc77959a1d34efc19fa45e00c2fcdf8daa406e91"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "ee339ec257a0d2cb1b427d988742b6bb6c479566d0e55ddd1f8ce858668b4e0d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "3b5e09c477b77ae592c450acc56eecaa849ccc3c025d6050124ebe4c86cc46ef"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "b69b8e72c18be84c725dff55b6a91db92718ea6a788d153d2f9f4f29780e479a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "8b65f106d0e3ed68f677f741cd23960e397c49d8238d0d624d478566d545a0da"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "129fd6426cb9b725e67a6b9c0b3e96b0563bc3921c3a34f0e855eb723fb51bd5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "26338dd0af9288b63e83ca766a818f3824d42fcec773b26550acb1b69dacc1c4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "9c2ef8b93080a0321243cd29b3a80bab69ef5f82c262d64a8fea209e2797cd8b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "e54c4ff1554091b14ec34850afad157744cb23b665c016059d4aebd76bd7d300"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "360c3eb54fb28a1eb78792bf4c698a34e50f29cc3c17a9759ff1ccd899824e4b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "049dcd7f656a91a345762a9f1f5b79e9f44c5bf8f91ea20daa8a112ec51a7699"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "26e16d3462b91b6bdfd89acf1b8a5e9bceef7b74a942bcf595fc331ed08248b2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "8be80c1f1150d5ed058582c1f2b3f67c3f026cbaf2b773999261a32921917c8f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "94537d374bb8ebf38284e26d24812c357eaea7ef1da3d6fa470c700758ceecbe"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "21b6dbbc45db89c598555a86d2f368566855fdfab9daa590695ff37fb7420910"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "b548f5328ba2030fd2dfaab9ae77106c426453a7189fcb4b49767d6d882ae85c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "08f6292c41dbac2b5663bbccda4ef54d573ab342e31e52455c5e242a9f0b7eea"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "eac92097ac1d8bedf5e91f87688700a14878e8ee9846bdb76f976ddd6ac7efa6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "1aba5785a3e5419d8c21351bc3f8ac0fbac24d0fcb3305cbcacff93181bed93a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "5c10a2940cd24891f54dc4010971dc43ddabf5c6e2eb4e90a9f27c17291cba88"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "07336241851089c2a1c8b29778a6bf199996763c859d2d9c930097a450756cc0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "1cae057a48cd35fd35fe375a1f26a52326edb831d365d6d3cd0f48c9ae189b86"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "9f8378315feefc2682a7b4bba67381fcde94a81ecd252352158eaf9606bcc38f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "2aa203a24ec2fcbf7c99a4ee28bc754974e3ece2bde30f5c1a27313e0a3d9b76"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "a361c6414e05d9fd4b11b57184fb7c1e633a5d220c3222c1883988114bba2e86"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "0c0d757a5df1a5417518092577e34582f9fe8e3bbf1ede6e847d60fe27536bcc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "d9601af4af9f186172e74d562f2d5d3c0727372b2fa55e3369b403d2d6041563"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "78f3735832199a12d493b31fe716b31b587ab545501992f4c6db29fb3e776029"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "f4b92305d8a943110a4b81cd4fa328bae7c69d461410d35343ac1303d819160d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "1e1ac98a70cc87c91c8db006f4f1b75acfaf2b659b713d5d1579f61d9311c171"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "8f3f14cba39c386145ee862715164ff68789746477673be1f181068bebc0384e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "8ec6fbacbd6f4252617636733656ea0392d72ccf77f4eae7f14f1835a7c1e7b4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "a8e53ff9846d151b13950fdc29d9d34f6763df7403a4ce16c22c52463f363c4c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "8589e0b8c09d11ae47c2ea5f520dce45b2409763861749b7c4213de5db817cbf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "7bdd51110f7255b7d42832083a317c31bc5f70363d2cb6ee8d1d2bd6ff7cbbdf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "8d259ea428d279b957ff403ead1e90eb6e320015ca1c6f22852a36d8b817fd0a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\README.md",
+      "sha256": "82a01e524607adc50dd410085d4b0ab4db8d1f357cafee4bdc0bd0708bbc1888"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "baedad2ca2738218ef4de2356f8b274d99b817e89df7293328eed6894c0f6417"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "bf42d9ae759161c57ccc1e5019193cfd6f0fbe1ae19bef4e81a3015c103da6a9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "6ec7a69105f507a866a5293b96e43fd430d4ca018539f511103945db3b5a6c93"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "0a90c9d3899b85519131451e01e9c0546f7ab01cd9dc7a7f9fa59bcd6d0d9f47"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "b3736536e23239f7533d46491c29fc4c363c706c208a64d8a9c4e818c2090975"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "e048e5aae4e486cefbb03416038b906936dcf7689b465f876004f23281143cd4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "560119871bad9ec33eb81a0dc47f49f43403e4b89a165a5954d3105a6911b2ae"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "7c620897cb033e77e07b6e9361f3e7076b50d07c851dbebd3ea4040f6d6324f7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "c6083ef5408aacea958aaf627e421f446c550ae669e4a4fa9f8bf3b23349af2a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "36188cfd24283ba8c266644e9a11611e8ec18bf9d6354553d931f386b7a21768"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "c093e72227ac58f1b48368f850e27db8c9fd7efe2ada988a0a60696efdf23031"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "ef8c1f478a2f2fce3db782e691adcc3bcdf54b93f528dec91b372db34ce648b2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "e3ed30276c53fafcfb051e2e33548e606130319d4ba95f290bcd092c14a77387"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "fba4147831ee7b5fc1f9ceda6a5746cae81fcef6a503177672a7110385e881a7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "d8db794f91e996c04c9eb8eb9a7f37a61d4fe7a392be448043438401ed2aa1a5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "a4e1f6183d8fa6030ba596411690b2922bd8134f3222f1bb0b83cc18aec169c0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "4eea831481c24b3b24a9014845f6a017505bf049db6248604508be3fee373cdc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "ead290c9a1e7f4438d9e59f2ad5a39b8d2b04db40b386d4921fd2d6deba797cc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "1eeaf14818cdfb125e622102e17e95d95ee1c776306b14a1c3279917fe9a7a3d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "f642d6747f23b7ab8f71c2544e75182f1c15ba4d9d78047a17804312f9bdeb43"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "b5d511d63bb663f30810b3d1121f8d52087c69d5de03630e1c3094d42568d1ac"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "fef18ff6b36a2793c1dc0d215d281c0153e016264b747d6484be7df32dc7516e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "3bd1d546d9ac2c16a99f516729d90d619533316b88e345853828cb43b2113b83"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "efb8879d5e57121074204fc818328fc9b663a853b5e063290e538f1c919ab115"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "8341707feeaa8cdf594b097a708c4e5c260119fa8410c42c11ec20f2b26e9b52"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "88a3ab8c8bdb95f835e8d10db8bdae0540ffc5e2c5564af44404e9e2beb52480"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "35255fd9f9018fa467cef760febaba07c686f3acde358892c900f0fdd7d6f6ca"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "a649ef43137bba9f699e6be23d9c489fa654396b2b20fe1aa574c84604dad725"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "f5b0d8764e655de8b9f3eee9220f20d029bf34a5503415c4f8e8cec716b03609"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "2da7dfd43477a0ac6ae29990b1c0d29072ef8beba974011d78951f9c0506ee9e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "8736b39f806acac0e38a776072aa78c15444c11830d92149a7ce2aaf5cc0aab3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "1cab17a675af5dac18221aad409e08cd77cd3cc90838b41128c5240e39b9cc2e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "549467dc39fd7cb6e97b8380519b00dfb08c341306658810b49b3380e4603044"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "8eeef353a87f86c198713cb530c8b02b7794e65eed309ce39d39f9083e21d048"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "78963813246b16280af6a3e416118524edcd13b24534be1e14fdcee41a582007"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "d3a54b63c825b55268832e926c4ddb8153910c67bf49e506d2525618c67c82d9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "16e55b656c796442857b1305cfc5771e2262e9d1bcf8825140ea28d060b9b515"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "882252ff3b58d0d0fd452488e241dac359e43b5b2a5b646aa29f940223e7bf21"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "d8da5d155b35df1b1f5810881b4c39fff85ba9f09409b4d87ff43f672f1e0760"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "60cd8f500ed830ff282c229227e851fe5941f2373eab83e1398b0dd6ee3a0e26"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "19a099ffd7cd45cba364466b790e75bb0fb7b475e2d04791289e1039fb8eb070"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "0ac9519cadc75d03d801dcf31dc44b0e92aea3372f00bb30f6f4ff7068b4e8d4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "d37a371b440874b98fed32ab18436f52fb5a16c439c03593658be3eadd62f66d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "24403b2e78755b6c38e06f6e3c017e7f565cbae1f84cc8c0439539d34d08a2d7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "672bcb14fbf56b93d9083795ff5898da6000a74a89d4daeabbeecd6d8c9384b0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "d44c006c1a60abbd403a7477aa20e71de978540b43e032303a966870630bb683"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "aa1392b8fa7bcd1eb43c343ab2e88401e281a4475fe4cc8f7bdd9b5ba9cfac45"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "71b83eee6299cb96e59d42ba74a3c1c7038f6bddb262b4b13b1fc1f61a92eec3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "7bb5596daac02d00462f2e4bd8ffe71c6b63cd55a3b1976847a021db6ee00106"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\README.md",
+      "sha256": "f89cc46b56af8746e03941b5ea1aba0c49fda4177189ca925c43e874692d704d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "539dabb5415815e9544259f740a6818bf79d42917fa4ce1c477f30bc7e6fc809"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "2c7f1d61c6399cb5b48cf8f63ac8cc064b30744289ee7e39d3424bb49a968795"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "55dead60ccb132e0349923b4cf9738035f873e77f921a49643a45000e52a0f54"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "93723820036adaee318d740c21c4aff1761ee94892b44621763aac215c180dea"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "7e63a97be0beb402def808424f7ad1f13d3ad0dbe1866adae029a393cba00db1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "d141bb4d70b35798a9f5b6661b5fb41eabe2a6be0b1e27e69aebe501ee98d02d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "ca45bf11243067bae6f20610c619fe7d2093b06c11251bda5a022df55b001a5c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "851a6e63c6eb24d9d0b3d7922cc8369c1ee169c3503d41dad1361fe43c35caa3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "38687c09582723f572e9b3bd424b2c9931f6e618384757ccab89d9f8ef9ec647"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "f2750d4740b026229ba1e9d667578bbd8247a80238a4a692ff39f7ab1aab83d4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "b9418142e3fbc7259593eaa7b4e01e9909a5c7d2610de4e6c62792c4d4b3d9c4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "201aa3fad10a59f3379beb75aaf723a9b16fdc343476ec1558ffc23166f9f272"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "3ef2978d95f58808f80c5f34d0aae3e6671505640becb3ad5e632faba6c94900"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "1eb637e879d53b23202f8047814796d10e244e51de9a6d22285b80fdc3d36697"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "66975ec5b5d81bee82288d88b134cd1b465a3158c87c1f00be8a1fcfbd90cdeb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "0af359b9d8add109ba79b667476a835606dbaa7585edf583cf1f77bd1cef9cce"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "e2f3130de518a50a9ec7df9c3b49d9e3ab1b22e65e1f3c0cc4a2b63f11a9c32b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "e3f507eb9470b2495f5f772670ef79924aededca52d4a805a2f1b3209ffe5f30"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "df3a4958b2d59c45c03187d579ba38e5e3f8eeeb6223ef57f41b18e95230d14f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "32b53b3727fca795c6f5b91d2863f19d8e235a056ee32a0e17cf5874f128b3f1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "5f30651c4af985c4e5580aaec34c7b24d41db2d8c831851f2bb51ad2b607fdf0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "e8b1be69bc3d9a7c49ddf2a705f17d70d942dda8940baa9f33c37efd5e3cc7b3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "babb86dbd9db6d46373143df5890391996c622de8f7d385a872d76cfd5c3308e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "2acd1f7eef8e2489bd2ef91c7eba95e4b76138d6d802644ac774ca4af58d0c4c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "1db895d8b04c78174931fdf7478d28183a8c564be3d6b59b9fc626be09a78452"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "e80dded4f38d26f144feaf02e412b639067638e1bb133f7d2d6dcc342e21165d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "f58e63dad61a0e76cb17c0a516d9d805249ded8dab9c04353dee827e5e7580fd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "ba40b57ba1450f6432a40996f6d6aeeada763a66c54c91c9aa4a926a2be2c0d0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "dd372cb59bb98d5aebbb89b1fdaf1b00504d632c8d70ce8fe4094d29ba4ffec1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "e2fc24d7e3090a683839f76dd4ceaa7b3a655c3021132d4bd8485aa0f36e3191"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "8a244619e7bf8ee602594658f8dbf6aa89af53f0918a82618134c9ff46485f64"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "5d2dcfe63325eddcb031d743dbc01716bc9807f9d3d6731610221f57054b49ae"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "3f97612fdc8402e086be359328e0d4afc4160c49a627c4ad9f0f2deddc049754"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "7fce5a40aa820abec5ad14ca0c7ad2c2586f4a841f5af1d550982da316299a5b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "35c02402b303b3a7b9d4760dc7b46c52a1e2009a155e614a4b8ce98d763d89be"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "e8e69bd67e173394e7bb68fe59531a49eb1c7b8b4fbe9ac180dd2a09e50e0ce0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "a74204f4a9b11acca8f6fb7700df40ba58e222c3ee2b487affcda8901ee244ba"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "f245f89f0806666cce052d0b81c808bc566cf1fbe8c466340b5ed7732e9268ef"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "8d139be59c653dece3a8b1d045c7f9f992e5aae015e470c9bac31ba8515acdee"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "ff7b3623df598f9906f6de7127a6d5fcf500545f3de129ca419de586d68c36be"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "feb63d519a83af4fb1518777355ba2d15f06c71c4102d75eff97e78cc36a26b7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "0c45990e83034deb95fdfb213325f546ca79e77e19cbb64e402ebf1775dcc180"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "58d4cc909d130b0c699cebb8dd2ed439e7d120bd84024e10fea753c80c805ea6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "b54501a740ce0a3b43afff36bac4a617d26c48b90118c963124d7f4e52660453"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "1735c5c698b0bc483fa4f2b55d9fbf758361b692682ea38d3b07ceb0692a7386"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "8c56610f596c22c09535697ab8fc3dae82e4307b7394ac471778148fa2250b75"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "d2e798868c69d93f049b443ea8f98cf30f1be04dd700f060fb591b5cd6bd475d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "a292c3627c89ddd1a024191dca517b761aa02d4001177adc9d9461ce14029528"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "2750fb983cb2c9c30eae7fbfa08f678e37d496d8d6104d5ca93c84ebfd3024e9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\README.md",
+      "sha256": "0372a83356295804aec73cc8ce6353fb5ff29c8229c643735f1cb46c64ec5240"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "7897d54cd690b3b502ec24ffc6520398baeca0e3658cc52bb1f0ef594f58a95b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "5c981f04e236342c1963ba4278c688fdc44472e0f86e4550d868b0cd1cd6af07"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "8fc39e298bd5d56cd77f664e12c84d355d87d08199a0b21915130e0657a30e93"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "4c665f46e685c216fe4ee4b25a537195fdccbafc83ab1dbc4e7c8c3429bf6400"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "241b75a550076c4d6fa9a84b58e9250b926e2e3237d02445fcdb1e8768a041c1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "5e4ca6bf4d90ef8acc922715fcb02bb21422d41013bc48c05524add6933e569a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "bdc0b3416348eda7be3b3f4cf67aa98d1c4a88605a9a260434f2b265e23e236b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "548737553505f07a3a5b5998e9d827c036b17de877d1b791ad34789af32d5bf9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "d38651607927f0f6659763a9c38656012b5b80357d8b6c20e12e03c1304bbce7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "4049b39ace742b84b7bcd9ca29a694e3ef8e81d2749b3da63108c613db0797e8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "ecbeb5106adbf0270d774e9fda97a850dcd776e79e5a671332f4b4bc2f9671f3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "05d41492855c02ff37d6816835d52562f190a0b0531919c562b045989f5755f2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "5bca1cc720e89bd15b015c8816927ed14f89f2ba28815c26c89feb52e8662bb3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "6104aa8f91bd46f5aebea0642508660552f4a518ac638b184d5cba0710f23237"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "05f81ab5443ed2862a709f0528931518066b1257cffbe411cd48946afca560a2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "6bbb22c96086ef564d420b535746d189e7c390555396555f2b7333180eb95da9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "35ad36e79339ba6c5df2908b434bcf3f0c0682a438dbd14e19e6762674b30f64"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "b34eaf6deb9ec1c335cf422034fa12d0275a5c0e9f4f625b24db20569e153f78"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "c9ead930b433ebdaf3c8d7652cba1ac4144d6659140eb52a5e8adbdf5c81c96f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "df199d2b887032c079514bc4dd2f98eebb2efdaf7c2f8592c0a3bf9d17c1a59a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "33723d6b25dcd9d4222bbd190d5c2e1f51078e56a9f2a6476586f25854f277b2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "c056674f0a4c01ec26308d3473ce32ab18b616a69e36959bf9b32fa2d6d255cc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "d39d4b91ffe09f0fe615534e2d96b01a6c037873a20732d6040ba9f531147e8a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "56344498b2fc4a5a659393cce7b00204c94f06a987a7ae4a049ca8917c376203"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "b6ad1b39b9b50d9b39c44d8a59dbee983b39f715d71d17ffa8c088271a5955bd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "2f69e5aa358e9715e2b011f4904851e383b8f34fda0721182c1cb38f3ed5cef8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "f504a55ada4aa6f51ad12f130c22a671336ff810f8e7f36a4d253d14eba934df"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "f9a86b2c68502ba1c485b616f45455833994a1b170e177b2e11d93b88365644b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "5c20b59b9be1bfcf72da67f7a8e402283f2b5d62b68770dd8b7e346b22bcc252"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "5dd407503cb4617f46ed8d27d41eaf70aa79e480415919829f4649200a97f4f1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "3cfa38c7dd76bd91a2bb72c01aec83e3ca231957b1b37c2de1290f66356a9a84"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "2f0d435c1169e2dfb344737b8a305fa2e9c1376d4e7a92fdb6caff9a3a912ea6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "91bcbf3be525fcde70e13a81d7d503cad1694e555597fb5b530ec2bd05bdbdd7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "6b8bb18fd5265174e256c26f03cfc6d4d6e7d158be67c34da06d394cf29d4740"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "e6b351a75885d1bdc9cbedc45ffef1a2380395efd001a0758882ff92c9de3413"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "fd3d3aedf646e13ea3df24826812847bcbd2e245699223f8527c488a2e0aa19c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "51eec326853f8d0c1beb8964a9248479f3ff4c2dd37f9bb483f4eeffe36a741c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "df7865fc16eef6d4af15ea82c08b09da47d501c3409fd3beb04dbc3691a7e38b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "0264492bc3840ae30ab44fff95934ee447c9e3bf86902dde9e81a610cbc156f8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "01c0690b70beab2fedd23be9ed0f6ae6ca5d466192e6d917ab9f9610bd0927c1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "58b4e91a77209bf7437adcf00f219d651844bf1ce9b47ef6b45540928075878c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "3cfa34f3020ef1d6b177ca0fbdfeea9c810234264be90ab141411cbd7255e430"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "be4b192e4efc8465ee6f370f254e5bb08aed91377bee540eb3d0c2306164ef3b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "4c162c1b2bba7c8321f1c27573af2cf8be02c7ff32ed79ec1ec6709a5b093706"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "e7169d5eab29568eedcb803407b96dcd0d826eb4c79d5d19cd48076f30102a1f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "5a5cfd8c716a4ea95787bedc5c8aa7bbe476a4d0669ed2fb4834b312f7ec1ae2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "ad162235484081b41751a021df02673c861270a4019ae63def6122ae76c44da4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "915f0f4e7af333db2b6c72c5b5b42cbc7e9f0092d81786f7682a2a66fc346ca0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "e2cbdeb350c585282263e1c4c6a61167b0dad77ea55fdfc8ca50527d568dee6a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\README.md",
+      "sha256": "9b7d097e4f2559002d06eab4292da317a813142cbb27b5b9c1afb42901bb4da1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "e6d5a2ef83ac9f3061a9937ac30786082f622e4fc86e6bdba1a8755c3a009f4e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "060cde1481f47c7f89818d4aa0143c710d7fd2b823f208541cac5458c4576b8a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "7d1b0b4307a84e1e95a5b5b1bc1f9f04252415d7c28de79b5383fdf42beceb85"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "7491f1bef6da01e67ae4efea6969620c0cefe7c1ecea9008849b54f95f89bc5c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "addbaad61bdc087a97b2aaee0656acbc39571b50a6319c632ce03bb9b4569d5f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "d61388a6029a106b0109b878e648fb3d2c0e13909fce97b8e78c667c029ec51f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "d44c9ea2f771c02e0c1dd7ea02cd82d9b6e278c4a8694825c7d97e268b4f3e8f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "e3c5e55d5a53e70906a5a9ef130fc22174cdd9a1e1ac4ac40a821685a8a5a1fd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "0b08ed78e0d09c73ebbbfbc22515c063681d074abd3b51c00b1fee6f3394ff38"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "cc581ac6db503ef4d64db0d9246cc42a1aa4ae2d57593fb528e57435de2b25f8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "bd6a495ce17efbae0bd41ac8d9df2b8d9e4e7c280a74239b0eb5dd5fc4aece36"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "167e4f5ccbd0e8d8b1be81f31cea63154acbdb1b79b92c9926c5a5f9187e7d98"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "bba9d87fdf386b75ffb4def209060cacd22d310510a05fc88ff045dd72429151"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "63f828304fb0438abb038ae1e9238dcce64e1a00bd8933ebfb457d0aa216ca50"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "dd62023a773f2029dc243995a3ce05dd30dd3ba4809d5dbb7b8f4438e484bad0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "6778d4d1282f11fdf949cf7fb35706f1393fd8ca4497abdfddfc3e1dc7ec8379"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "b33c90b83be4ebf2f83c0a21eefce84ea0c15d450338a37153f4acb4cda73955"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "5e70811e82ffdc5cd93ebe28e32f812baadef7707321bc649e85fc064bcc5967"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "bf8a1111fb2ca652acfac8a8ce95f4b3ed90ca966c457350ee6cf7e732040ea2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "c68e1b5fc7e61d5259aac0558fee86542ab89be16de205df43eca97415671c9d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "1a09125cfd70b7a08c1f54ee1813d9891af122e1ae548b42b69d1beee9000175"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "7af62747406358f81913200754983ec81a67330fa77b240f5c97309c6cfe7264"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "5daddb1f58e3e4f20fe79498b8d48bedd64dfca9e3a30e8dd36614e90dedad62"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "e9ba6f39f6ab13a62391f1f0a5f48b0b1dc40e219cee83f60979e1dffa594fa8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "9f8c7a385494382fd7a1d01deeeb6051b70dfc16ccf39a3e5bd7b083a1b3a92f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "298b491e6519428bd9b7dd13cb36ea83430527e6c3fecab8dace719246c1be9f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "837ec512c3962375b5c04c883823cf55acd6ec821fc213ba1ff2670ab8a52ca6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "6dd3d569c46f71a1156555748893c2d2455a70db74a9bf673a560d6ffdaf0dbd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "75b5f7b19a670fa9c4653ed9431d62fde2d276dcf38509fc6c5590ff852f9a74"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "f465827222d224156fc4fafffdfd88f20d3f22cf89675d54f0fb5f006cecb352"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "fec7d100c4201eea650e92c343cadd79d8a1289e9dc2a3b8a487ce3ae8e401b6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "13fda463d95718518e916ffd253af6fe0a22c2246a6c4c55bae350b459523222"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "97875f56849065593608fd5599d2845d564708fbd685f27d0d8962894840c300"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "8b70ecbcac2860871585dd6a165a7da7e0f3d103e1ccc250ab650c361f2895c2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "978d370f74139cd171ed8a54a2f995646163b9ed099c268411062aff279d93a6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "3e6a61e5db5071ace951411752413551a1c4bded3ee47f95420efcdd0d9f20d2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "ac79d5f6f6fd4ebbbf014875117a57f231ce2d360c6fee01b7976b0526fae5b0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "37677200abe85351e268e3e49d9ee8985288d5e8c95938a65dd008e7f1c09282"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "82b959e74f4a31a4759b3f5e69f7225b0be3044d0565598ee4ad32f5f40fe3f5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "6e8d636d4e94c908844bdc348fe76d65d1e90debf15a5010abd3772e1c8bf24d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "03de162d7b78d42703fb63594795ec1b8e5f8ae311e670b287728b64acb984a5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "a3e4e1cde3bffde964399a8c379275ef733a4e7481087754bf4703ca49e9c7c6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "19b46d79fc4966d49cb5594a388e123bbd5d401235e67229f4dec37534f949bb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "01063d119fbbc675a6c9c9915977100d7d69c00324a74826da8da923c3ca5059"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "c86852ab91777eda2e33583befa6bb3dcdc5fffac42603f002cb15ed2cbf0eeb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "0fdd37b04dacb55d51804a7aaa0f8eea6679b262783013ffbad935ee3cc53f44"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "7edd992602886c37d5512f209040afe4d3ecb2839a57b2a02935efafc09239e3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "481c597dcc4fecc7998705747d4ca026efcb4bc32ee628199a6ae4e92c756e2a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "4a45615957239b049c0c320ff5516da8fae491453be45e9d37e68464c593d725"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\README.md",
+      "sha256": "e13cab211bdd737484c63cad6bce029b92eb7e14b11fa5ff01f771a977757161"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "854df590201e900ec6a1f875a33af8c03bc6a23dbb37b4d34986ba2a730a449e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "4db409b16f5c51175df0a2f0edd46b6bfbb1b572ac856e7ab99d8e1c2514ac39"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "63b3f4ed6970eeb03e1c3c46bf45469d647d2f1b55b4c2f302115f59903c34d7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "66ec8acbb578b17c4b68d54417190928dc4938de8ba79b7413437b8399167764"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "a98460eaea3ba3e38256c5091061b54ab23268f7404460f5348fed2c1d73af3a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "3e893f4fdd0d88b5da5f443ebcb43509f4a681d5c60d46c83dd0f8952b2b97be"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "ce7fd9c2abfe794807f5327516e19a6155fee58c0c27e4ae74aa2c03880c9c99"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "2ad55437f2e0777a07be4b0a228a6c820c1322cc923e0e7a58ae722500c955c9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "a96d3b63e3a175e371eac4d14c0d7fd81cee5203b35968c06f240d61150e6cd6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "31be84b74174d4888d5d30bdddc98aa7eaf9908d81b2c247c7a392c93c5d507f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "e38a04055586037920e414e35544b8f8a2f776a3b0145acf1200f1306bbc7826"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "6b67ca2de4ca278282017433f0463702be9498f90fc7e39dd151b51e163d58f2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "ace760162ba5d49d006b287005cdaf36a806b8a903a989f5882ae378024f1b96"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "66d343151e1522613e37db7817c2172b0769b21732bf1afab05d9a7ec36ba60a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "f87dc2a37b4a2f89a102468d09fa1b5d0681d774ce8e9d9adbbb2f694c1e1f06"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "e1894ef8f6da726138d5992d1091632803fab0401112c67cdfe41f9794a5da6e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "0746edd6857a6393a3516b1428ea4dd7b9eb2a0d1d147badbcce96f3a4718baa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "6247c116ea801c552ea826d6eb8b702a6f10029ee23f04507134922fbe8a5e86"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "c053efae5978c06149ca1a049980ab2b6be7783326bb77158e37586085c47404"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "3ed516249e5049c43b04781f37afb9797fff1733e32348414eecc101d06bc6b6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "2b7d4041689505fd7723f7a013c2186b0e885db36664388fad25872a9aca1fd6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "61a32f9cc70be28718952a976dabaaa26e229e6acf94e84cdd51c697a1179323"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "be1bd5ffc3cc95ab2102d244210b6c43135df075cf350ae140a1626817c1ed7f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "75a3f1fd5ed13a14de098cb7788912d3fd99ca40ee64498829f2a0d307891e08"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "77a0bf3309f41941ba3937a47927592074a54e7b877838750d78aba574daba62"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "7b72ca0ab75827c3ba13df1b7e33f6f83fa90ad910be4aa552bcb4b629cdab3b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "efd75795dc019682fbd1e26513db888d93dacdbd3cbaa0be87fd4e4a2e283120"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "cee69245daa0f30ba14a7705745f58b3a19d25399a2cfad730dcdb1cf6705fb5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "188feb976a4aaad284c5cbf7ab08ed4db5ae91dd93af1fb0f11a9824d2e4e89c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "6a6908dca61be78382b1c40e0a0ae98bce12cb55963dbc527acc92f1f2d58627"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "a954c6209edf65787509cf3803fb45417155777688f1142783bea71894b6ebbe"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "06bf9657995027c6044af23c747c91e98d4439cb85196fe22e2d389f1636c745"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "1de2a747b08b1938f38dc771dca342041e38e9368d8e43d7d3657a10e9b1e99f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "c7e5891cd1cd249e940ca46b8b6049ecb8e582212c32624b0cbea1b930b6ede6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "f841997c469e828d4b9c94bbba59fc29ac81215b05ed1c2651ffb255f1223d09"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "a770e72e6d50b2ae9371d5b215baae14ff34416d3359c2cb29c8d01b3d659633"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "5850dce28676ce987a6f2623f24bcfd85bf024b6162d3dbafa18f38b49ea380f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "64df3534c5fd72e6a55530981f24248ccf2d5d33538358025434102f8c4ceeee"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "e9e81e65d13ddd8b0a46c9b1d2a2f994c26619d2e304585beb36fa2f127948bf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "86eb309e8793378864ae60bd0c4dd6765ec41cebc010539d48f1e64f2b49314c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "446538b77b56aeaacb33a7ffd29a6b11fa0d2682b0e118d543c43a9a8958eb94"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "612ceaef8b3d70230c51ff55af2e18e6fbb407349a57c93e9d8cebe832b2322a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "64843e697de94ccac293cc161bc61984b9a215324b0da8089af2f3d7e5be69f7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "c3e9bb8ac86343b47a03166ee7b51dac57b10a9426de61447348a190841abcfd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "0015278895966c7c9fc1219519935722dbaf072fa953310c1668e7470ed454ae"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "1ca5e1f89f3558f221eb6855212973cc59e72f68193d7d84ced6ef609d5ce847"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "3fbf84aef16c121a87f25429bf169d86f79cc2b7222ebbbcbc3bdc0a9d3fe51a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "9922498a7faaa08c534873ab3c668a3306d309994460851cdfd09d19f4293680"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "a47823c9b5b30036a03278c553defcb1442b4279e47eb0f7c787a07f3043963c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\README.md",
+      "sha256": "4f89e20b68a2a6aec6d9ee086cda4f2382a935c3fa8bf9fb0408dd97df9f986b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\journals\\01.md",
+      "sha256": "9ac1e1b9c8e7662a80b0b033f450a0b28b28c988e90a75b68ba9fe6d218be2e6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\explanations\\01.md",
+      "sha256": "9c42b9f3c700d3de1dd771746a6cdd8b2935002130555ac95829d71ba3d6f3c9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\workshops\\01.md",
+      "sha256": "94171c3528484357656a4a37a66ba661e6ec07d802ff832f122514aec7bba675"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\journals\\02.md",
+      "sha256": "aa758bd951551a9f65f77641b4d580ea6f551ff9c97bdf7ec3a504b4b5c41c29"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\explanations\\02.md",
+      "sha256": "6e66fe189e6aa4e65c97ff099be66dd8c93af6a1910c64d90b8f8efd247fcbe0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\workshops\\02.md",
+      "sha256": "4bf22b5102aa114d2dcfb7ff477415c4a2b9bef1864990059e6007da5d5474f6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\journals\\03.md",
+      "sha256": "16c7c30663eabfc91218a49cae64f47117b5cd14f4fe7e9809af81f63de2be5e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\explanations\\03.md",
+      "sha256": "65dcbb993ae8663f298722805b82c1c8737d63c7fd39a4f5e98097ce3d586130"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\workshops\\03.md",
+      "sha256": "20a856e34bc1aae315d5dc584d07f0e522181b3036b6d4b1a7d095c71e93237e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\journals\\04.md",
+      "sha256": "285cbd8a8fee861508238581dc6731f8952958c02752949338f55e26ee327980"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\explanations\\04.md",
+      "sha256": "15edfd4c3d9041fe99c776333de7862fe220281c84b59d433d738676073ca831"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\workshops\\04.md",
+      "sha256": "fc4488bc31ce31dad2169c9139deadae42e34930ec9560b164dad73e773a35a7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\journals\\05.md",
+      "sha256": "a72103bb0d4703f95f9127b0283cd8022ff2815065fa8de7ea3b3aef8da8349d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\explanations\\05.md",
+      "sha256": "42d1fe0a819dae8a5911ed39a64ed2ea080d95f10a25682f7a4fefd6c66cad2d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\workshops\\05.md",
+      "sha256": "21aff5c65daec2176c8a7b84c539de1b13498acec39cbbf2a569f2560287d106"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\journals\\06.md",
+      "sha256": "86a67ff943af38e03d9695dbfb184dcaa6ed9cd7c570feadfd067e0fd8c748b1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\explanations\\06.md",
+      "sha256": "672d165f96b86ae30a885f559a9ec5ea72be3f0e110df124619333c560530829"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\workshops\\06.md",
+      "sha256": "175d50d82e9595fd6124ef20adc0bfe74a32a87d0b194da42cee9512a2a14e1e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\01-aliases.md",
+      "sha256": "5ebae6762dd172cdb0591af62558a3e90044f6954e95dfa2d4f75f49b0599228"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\02-derived-values.md",
+      "sha256": "f612a2ae63ebab7e303692de237cd9ab7c6b472386f61059f0bc98922320afc1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\03-stable-identity.md",
+      "sha256": "7aa1173d1d2a961e4ce3aa3fd9511681e258c269313c4fc8a691fe394b7bf520"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\04-closure-timeline.md",
+      "sha256": "162dbce02b9b2c1f605734f4e3ac97b6d7acb00fd91f7ddbaad3dcdbf5f1e079"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\05-missing-null-zero.md",
+      "sha256": "1cb90ad5dedd4765bbce94326abae2622842e23f0b698095d4b28c76d14743da"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\06-runtime-boundary.md",
+      "sha256": "de8d1ef77f7a5a5c84c48b3c951cd350490492bd49ee53a4becec0ac94201daa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\07-outcome-states.md",
+      "sha256": "e88841ee173e0fef91bb5d01a5b987ab8f860aa2281d8192a2c7419d8c73f3b8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\08-normalized-sets.md",
+      "sha256": "6cdf6925ee52241a72e4a75ffcf64da45e2cf2e1f5e522d1220a562338726a6f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\09-total-order.md",
+      "sha256": "2c5cad13cb998d14a4d9156848a05ef1dc00707e4db2789ac5f75edc19594a80"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\10-graph-order.md",
+      "sha256": "30ad772c2ae8871e51c2a6debd1d42d6153f58845ad4f42bc1c296c229199207"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\11-promise-cleanup.md",
+      "sha256": "4057b1f25cff5e45fd4e3d6d0fa5d7c39156c60cf24deacf5be81a3ccba50450"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\12-request-scope.md",
+      "sha256": "f23e141768f85227dc5dca0dc47e71e50e1e54990492709f26633f74589e7e4e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\13-uncertain-retry.md",
+      "sha256": "f8bc28c29824f034dc4ef00959826688834be96eff14651cd771639629766290"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\14-trust-boundaries.md",
+      "sha256": "d59ae937352307fd097e3df82f05dcc80387c0393c2feeaab45d2677446dfe79"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\15-scoped-lookup.md",
+      "sha256": "c4679a95454fafc056e34279314f3f6f75e2d74ed6365b191f44efdbcac1d57f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\16-conditional-write.md",
+      "sha256": "7d704030f4c9c8c6bdd3663cf637db4205c3e2edbbb15051e42666863c06b8f0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\17-rollback-boundary.md",
+      "sha256": "ceb10a3d9640461d0e6d9bcb4fdd6bf415c1e42d40729bb7ac82237a2e6a579a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\18-grouped-invariants.md",
+      "sha256": "879552a903a7ae23b5b9d8ea21f69d3c92a48018e257cfe673c6c7cd696193b3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\19-cache-identity.md",
+      "sha256": "b4f8856bae2799d4ffa569be9f89da19443d0c913206fe3233c5e01219b90294"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\20-late-cache-fill.md",
+      "sha256": "8812ddadee2a20f92a99d49710f2f97dbd6381fe4659c91343d325eb6e1fe9b6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\21-bounded-batches.md",
+      "sha256": "7fe3375d99ff929ed3b88a7911fcdbfb03f015829d54a4992dfc59ec35a71668"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\22-contiguous-progress.md",
+      "sha256": "5e78087a7fce61aa6cbd8b09093101fbe839ed7396e1940216bf8ce94c01b66c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\23-event-reconciliation.md",
+      "sha256": "043adc0e8b30566fcaddc1317cbcabacfc476bf26cdc862b5ecc1ec5c5bf88ff"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\24-clock-domains.md",
+      "sha256": "225f79f3a800ab94461e2687798c102247064ef13ae1e7483df62f0518989873"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\25-aggregation-denominators.md",
+      "sha256": "5082b774cfc15f4e868089c1c5a8fee690b68a51d24308c9aa848dedf6c6f558"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\models\\26-retrieval-metrics.md",
+      "sha256": "6ae5d6e9c572ae9a70ce92fdf000e0d42bcca5331a470a30df77dada2c07993f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\PATHWAYS.md",
+      "sha256": "ffde98107b153041c77161f13ca545f6b93e296115108e8efec02885bd6a9aee"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\MY-JOURNAL.md",
+      "sha256": "76af6477046bb9052830d059b4b588d3db23937ca49cd2fe731c54146ffb890a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\REVIEW-PLAN.md",
+      "sha256": "6e9b9587e162163f3a9ececd8b382a70f2ded6c73a5c2ec06fbf7985cb7a55d5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\WORKED-NOTEBOOK.md",
+      "sha256": "08b069ef6f45db51fd4645c7d9d0c86329d0b9fac0d52fec3c58a959103fd4f9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\guided-04\\examples\\check.mjs",
+      "sha256": "c20ad92251bb8f3c552925d140f189ba515a515f1571cbe528f070df104db2a8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\guided-04\\README.md",
+      "sha256": "4dc27c94fb8cc34f8387012e8927ee07f328a63b2f0450ace7e46d46161b30f1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\guided-04\\PROGRESS.md",
+      "sha256": "b7cbde090623b97a82ce4e59d09037d02cecfa75bbba0161a483e3cfb4f77404"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\guided-04\\VALIDATION.md",
+      "sha256": "f2b9407f4834be69bc59189b46f7b5b51471571cf65d137e7671d7770433474c"
+    }
+  ],
+  "verification": {
+    "node": "v22.16.0",
+    "worked_examples": {
+      "tests": 30,
+      "pass": 30,
+      "fail": 0
+    },
+    "local_links": 1382,
+    "mermaid_blocks": 320,
+    "preexisting_hashes_unchanged": 2818,
+    "new_files": 504,
+    "application_runtime": "not run",
+    "learner_mastery": "not assessed",
+    "project_connections_reviewed": 260
+  }
+}

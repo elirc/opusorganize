@@ -1,0 +1,1420 @@
+{
+  "date": "2026-09-28",
+  "scope": "Additive interview preparation; no application changes",
+  "projects": [
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\lucasrouter",
+      "pack": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03",
+      "title": "RouteIQ / lucasrouter"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\perch",
+      "pack": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03",
+      "title": "Perch"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject",
+      "pack": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03",
+      "title": "Grok multitenant project"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\gitjira-app",
+      "pack": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03",
+      "title": "GitJira"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar",
+      "pack": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03",
+      "title": "Bazaar"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\astra1",
+      "pack": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03",
+      "title": "Helios / astra1"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1",
+      "pack": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03",
+      "title": "aaa1 CRM"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\buildevent",
+      "pack": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03",
+      "title": "BuildEvent"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\buildermentor",
+      "pack": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03",
+      "title": "ShipShape / buildermentor"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\astraspacegameweb",
+      "pack": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03",
+      "title": "Warband / astraspacegameweb"
+    }
+  ],
+  "sizes": [
+    {
+      "project": "RouteIQ / lucasrouter",
+      "before": 6053,
+      "added": 33901,
+      "total": 39954,
+      "total_multiple": 6.6,
+      "added_multiple": 5.6
+    },
+    {
+      "project": "Perch",
+      "before": 5794,
+      "added": 33610,
+      "total": 39404,
+      "total_multiple": 6.8,
+      "added_multiple": 5.8
+    },
+    {
+      "project": "Grok multitenant project",
+      "before": 5703,
+      "added": 33259,
+      "total": 38962,
+      "total_multiple": 6.83,
+      "added_multiple": 5.83
+    },
+    {
+      "project": "GitJira",
+      "before": 5752,
+      "added": 33773,
+      "total": 39525,
+      "total_multiple": 6.87,
+      "added_multiple": 5.87
+    },
+    {
+      "project": "Bazaar",
+      "before": 5609,
+      "added": 33689,
+      "total": 39298,
+      "total_multiple": 7.01,
+      "added_multiple": 6.01
+    },
+    {
+      "project": "Helios / astra1",
+      "before": 5736,
+      "added": 33519,
+      "total": 39255,
+      "total_multiple": 6.84,
+      "added_multiple": 5.84
+    },
+    {
+      "project": "aaa1 CRM",
+      "before": 5849,
+      "added": 33500,
+      "total": 39349,
+      "total_multiple": 6.73,
+      "added_multiple": 5.73
+    },
+    {
+      "project": "BuildEvent",
+      "before": 5690,
+      "added": 33206,
+      "total": 38896,
+      "total_multiple": 6.84,
+      "added_multiple": 5.84
+    },
+    {
+      "project": "ShipShape / buildermentor",
+      "before": 5662,
+      "added": 33364,
+      "total": 39026,
+      "total_multiple": 6.89,
+      "added_multiple": 5.89
+    },
+    {
+      "project": "Warband / astraspacegameweb",
+      "before": 6216,
+      "added": 33377,
+      "total": 39593,
+      "total_multiple": 6.37,
+      "added_multiple": 5.37
+    }
+  ],
+  "files": [
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\README.md",
+      "sha256": "a044a469e9cadb6c2da0b92c3e84f5c7778e91fdbd325a90fa2d5d8a6d985c5c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "0edf271b276428c48f5d518e5e458da72620ea200c322ed7263b47ece8467e46"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "a8fde9f6250c68c85bda480a35ba23451c4e007026cfb916aa6a4d88d19926be"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "33d39f5d41c51eac81be30951aa347b41d0db076433e46f7c293f574d23d07a7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "24c5ef573c246b1b4c2bf1823aa90c93c6e4cbc5050aec852121dc3f73626159"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "25c1ce2f1d681fff5b29ab3a9a722439a6fa486a5a04e62eccd6178d52077c4c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "46f5b1e5cfa116bb90307762bb3f00596d28f0f0caebcdc9f3dd30e0a6f608e1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "d6153db9eb668d76e2402107783bc0040f61b1429ca49ee1316b6635dedde874"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "e89b172b3807c81aebcd880aa58a4a1cd533ee391ece78dce9be91e6116fe12b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "55db8b610575a914db9f9f6c42a35c24503d4f08577bc84d7ac3f28dccb0683c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "57064765b0a4172d83349fe816ae00f80356744fa12c7b2454d98a16f701d5d3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "1af46320d158a877d7e696b0a73730f7f820dd5a8bebde82f0d16163e17fa97d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "0dea7fd0b584eb4180eeefe3f1908818fbeeed37f382366fff08958485824b45"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "ac5adfdda668a603231404b7fcf0413c415f1bc9468a7aaf11c5d24dd7db6082"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "f542b3a0c0c43ce8431ce6048d870e9bbc0bf9111a96786c7299aeff679417eb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "6b553f792772cbb8170e6650235dd41c4604aa2970403f73bdde0666bd3ad512"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "4b02b7bb38dea34ed708c07442978f96ccc4607688a53dfa5dafa92c6b5c012f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "dc7e9ec317319f3cdf9f1ed6cdeb01c4f3b98aacb3ac56ea5f5eb837ba0a5398"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "33fd7f378fa26325d6e01c48eaf50de92ff79bebb31247416c2fc634af537fd3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "93851fd49a2a6d18ef9af715f245b37b3610d349aaaf0ba9b482cf91401073a8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "9b2f3c53dacbce3b7bb42bafefc6cf351d703fcb55f653a7380fed87533afe6f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "b5e189cb2d272d75c0e49d11083ee38bc2c381586ca7bf31737955b035bbd0eb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "3683c3a96960b723d973d6234f6eb21ca017373abda2c6cb308f65bd81551bfa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "4a7e433129fb468a1ca4c30ad34b2e226c2a5bad1b330994500c37b05f7e0648"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "d9cd9e3e8420c79a9f2ac9118fc4e32cbde931172b2c712c2c786592ae03d251"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "6cec6cb38f52e7c1a17ab2ac68f21fed17d7fb18c6e5b66fc7a094d1e73dac97"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "84a6321308f6c3129099d8dff38d503cf37d825ec3605c38f67f80df75733379"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "9c26ab41106b958f0db624b1621f5928aade90aed18980264c0464b75d043e55"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "74e3b1f093d001cf9dba70f3a7e72b6671e1bc876d1b1e0020757ff23b772bf7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "370ef2979f94d1522091ebd3bfaca262e63e4c2e1d5eeb98a17e8e74218c5b39"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "ab9f7000cdf6bc1bfb199629a4b8327238fd854dd37165a7644176cfdc968212"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\README.md",
+      "sha256": "8164154d0992fe099647e1d159be4c689bf30b74a4b2c5333870b08272cefbdf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "5365aad9a56c52cd8852e273aa51f4d50a4dda9127c0f4ebc849641e694d2f2e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "50fdd514a354740995fb888abceebc7ae46843c5c3aadce48e26bdd447791e07"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "6115bc758ecfbb69fa936a4311656f9fb99fc3e07201cfa9e1c6da015f3e712c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "9d6fbdafacd1ef0b4f0ef4464cc907a6644aee2d4da820de3c166c59873ea458"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "e7159b7e5a0910f6ed5d1bd5ad356dc013a533091aac1f51dc8d4685b3da7aa4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "25c710a01bdaa653a2a8d926023231b04feda25e491e6de693373073e19b9d93"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "68bf54c234ddc5d4a1dbf2cbdc67c6ce05c47512c12432fe81dfc8a38517a121"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "15ceb7b7a95091b4aca9199154c1f7dda95671e1b4ea26efe419ee71475c3225"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "48ed154d4cb80e24348d1bcd6d72a5134541de70f33df6abfc7a943b6d402d70"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "9c89ada21cea434239cfd05267c793a312afa1920ea91da968630eeb6b534a1c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "244ac41f79920c41ce5eed62160ec41e6760747133b6e8640154ea78d7bed551"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "2b3a74270e299b21dd99ccbdb604f4435259e2a256e4029d21b15269723a99e0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "255f7f2c0d518e841254930569e6cc3abd72d4bf45da7c758e3f617f06519015"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "c4674b488aef0471411cf3c9388d170de1d5b355a380a7d81a6366779bf73887"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "f3d7767eb57e1c94233f9a126f6f1e3541e9b115b62898b56d6a715665712191"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "fea0f51a4fd77078d58efc84ce2ae8fe2045e256fed4b81d2dc6bd0b132bf6a0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "646b707179e7892833f3810a93a770c31a152d2d55524a96c8bc9bff1b015b99"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "4fdda059763326fc9f898430a5f1844e27d6b00504d1befae4fd09225fc817dc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "1038308bcc6bfb44dbc4983ea9282d4d6f222d917df1cd7b826f27893f2e11fc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "26bf83211f7a44e2809f9ef6fd885580496c163179147ed19c591e3133a69a3c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "d2403924adfcba9083004ae5616351bdcd8d532c0abc01dd59c56d0583731c05"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "411bc82bc41d1ac31c839d3c6aebf6e05f83994e7ee9300b94c8d284e6ad185b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "7961cbee60250d59ef801b382b7b33d12803c59a761d2bf806873da3fdbeab03"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "5470a10ae259b5a32820d1c76cf928126673d3f98bc634186d19226c080ee15c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "db8f70dd53c1b6270175953615578d779bd88970bf93d2fa3d3243b476e49d48"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "dbdd9e366e123e7a9c462f52a738a03c3e0df0b204a955e3cf0cd0763dc57c7c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "7d5326ab536e025d181ddfbb223aee952e1fcdd7b3d2ecd0768911ecf0edc42a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "218f131e1e3bbf991cf74f069178dc07fd3ed318cbe82215930733e61d91a7b8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "59eceb8d93ca7560341b0631c6e7523db422d7e7fcc388b1545f2fe5f58ac08f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "757cc24455ef912a3c67c27bd976cc5fa276557137030a3b4a09c86801d0d433"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\README.md",
+      "sha256": "9243d813a23e37021522af8b3045c1d62992cafbabdc3a57e8bc8afa94b67b1d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "ff31be24f69d1847ce02b9c7706a79fa538b2deb3edda627f9d63778c1699804"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "5c4959272db2f708eb074741f8bba59767d328568e9ccb1a27625ae2c2cf8ba8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "45827135962436743e2c79db387e1afaa73adad0eea6404911bbb7c7ece3da78"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "4ee2faefeb0c90fc2ecc1d9254694cc6bbc4cb01229d56e0c6a773439fc24106"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "a1dc61fe401a83e11fcd772ed43d0d563fca8fae827963fd24bcab49a294a14e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "db8ae466c7e224afee5e867ab7c9a555eb87a9dc66c9558aa705b540805942e7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "951dc67c1605db0aca6ae8e9d3f4890bbbe60c1418f1ccc6ea4d22d3195b7fbf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "fca0b2b74dd9306a5462ec024db81a4b110cb3625bc08373d6d0cf8cd2ec1086"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "53637b5abcedaf429423f1b9e3b499ce33f4369836cbd4dbccb0a2abb8742cc3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "4217aec099b18e7782a4be9ba8eb2060ac14212ee5b4205fab7b1ed8d0b5ee4f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "02839bc6281fd050d750160e8d8a8fcc736ecf68c0b2fad1b84cccd84384c7f1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "1f436209c9e2d4c4219d82f93f88a604970cbc3a54b3d31fe61ed87c2cc59011"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "d318e356df785dc773f064617f4bc6cd56783d482f9861c345d01c50fa9cc2af"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "b16e52123779ccc6f386896b9c9c75b39afffcd48acbe17ba279e6620b33da03"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "9b4a5d24ff19afb70f8ef8f4e822339120a4173334b0a72fc7a14058d7f97883"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "330670144768c9e5a069a4f43387f34d2e891226501cd0e2208b976e0d87b961"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "09b42ebc65335ff76fcb06c683919a9252e8be767fa21e7f00d360b1a965c8bb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "886504e8f0838d1ba15d69f6980c54fe4f8dabb44a24c5c7bacbe4a94b0fca5f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "5d8fd4d7bdfed27fb167e322ccd390fc37582483e1d9db11a7293ad97312a9cd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "6324fee80ec3db20fe40bca442c13d2b6c1990221b8b7155e4631497ad39adfe"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "7acf1ccc941606f4a6494eac7ce0946a3f66bc31ed45b30fc371f2420e33f610"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "1428d8717a6669148acc9f2db13025392924c4c1cffbb5d5a78279609228ed03"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "c61875587133c2aaddd26788ea2972cf0c6749a243059355edccba67b03d2602"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "3ad585410ed429385ab88e9cf48188ae1551efc20693b0ef22fc4ff7222e529e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "84ca33da2d23c648fa762ca14cf5e7ada8cb8e4ed412ed115351dd9e8a1c9c9c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "2c647c71db6e8b8b5c485d23f8a1c8db1b1ade0e0e1ddd8c83f7e3df2c9d8066"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "c8fc2bd1db512193551db54945f1b53d1a401d7b2c63eac3ced572249901a0aa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "164cfdefd815442ec733068facf5aa845a1d17075181d03fc08c75c717d78498"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "af04fe0c1be6d1abd02a8a135393eb45d8774e60ee65f628b905f5ec6d357b6c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "cfc93a298416573b653467f1db9ae9a3bf3df379b855cf1ce5aa743cfc3caabe"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\README.md",
+      "sha256": "1f46848947d0df9e973e77cb73dbf60251b76bc6db7c190fdedb4110804e86dd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "6aa14c07d6dc98789401a7ff10155375bf8ccacd2aa85be5f4fff19ecdf76edf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "517889fb5881f8de741de9c9bdb0ba670c3d94a2b045ef66b244671888b7f4f4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "a9c80419a75cab377659aad13681b5f92c7aa20fd81eafaa87d8ac9500fab457"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "242c33eb08e35057f4c667aff6ff200c47de6f6bbee11611a99566fff1ad6b0e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "aaa9d384c8de021b43ba63ecb2f06f092857ea7418c44536a9f85e1818a14e61"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "3d09c222f98d615c2e82f92aa30b05afab806334d674ebc3dfc9fb6ebe1a119d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "f622460d9a8db779321456e846c04ca464dd189f5bb0e37dc9549a8b817d363f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "890db58214e727d47b87384ef105bcb423a3b1dd11356c7e9048fa7f64aba1e8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "6d921cbabdb9525f8ee0165eb9efe35fe989811006e476fbf6215271ab939c29"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "f79edc7f0271ace9b26a91e49db7d9008bed719eb6657ebd9e84af2ca69e656f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "8209365b53e46e47b58caf9bc2c2d12347361d3bcbd5eb08889136ac1b9c2b7a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "cad78c68f7c76a9b4c989af614a88fd6675e86b2424374525bfe1e120f06d8f7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "e147eeeeba6f229b4d7930c2081a26449a00566ab6770e11e4acc775fea7cc73"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "ca553ef0a8784657c5a95676a3f8072500ea8f8e0d89a4d779a197dc8dcd52d3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "6e67b9d993afc546d2d40d2b280f03a1ab351f4f186ea1b766d84f5cd7567c0a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "ed035b6fb4fe44a8d6079c4e495fa735d01d576fa320e63dafa5363f7d644f75"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "6e999dc29f4d674f14e504659d7c1609cd07564b7e9ef525b4d330becbbbf30d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "769320d8ee0997f36c323f7886c521a3b7195a7828c4848d8c1423f954b91edf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "19e28888d9fb42eed3cbc98d68f7cadd87ca52efc015138fb89d9399a4a4b422"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "e5aca0670d2580f8b192a5614dd48672ca5ccc4ebb97b6be4891fda371daae49"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "098fac07e6b7f6a0c2f79d07ed19aee189aebb5f1fe29f5e954e2fb76195513e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "5b8a66e5aa123d95f9097f30e7d2d034ce1bcf60ca765fc5ffcf7d6c2c021457"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "c0e0f3aca8873f1cef448baeb141604486cf375db22b40c2eddfa2fcbc41bdd7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "9c2b21bf41f8de38972096df0fae81d12079beae5904ffaff6a878a982072e2f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "d41a351246fa3129decbdcea51ad70df6c92d8ab6633df2bfbaeaca2576b939c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "6af1a112aaa1549dff945c161dc59b9fb74c8c4c7716237048228cabcaff3ac4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "6b5d39ef910fab91220d6b2299dbdc264e08c50041d4be1b40e3dbba22159c53"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "f7670ab385d97d683d100f6b10e4a65708dca2b10dd7345c1e83bb163d308d1d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "3a83cc25715d543c2bb55f636d92582b9b7685bed3e054afdbe2c4e3bb86b656"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "2ac9ecfff4a6301dcc3815874bd3d3fdc9b7c27e4dcb5f67d6ce7d2c45235f7f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\README.md",
+      "sha256": "c6b9c38a5bbd095c7c8d7587fd90023e8bbeb85f6c1183b2c66f4fe3ac64ea9b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "ecc0194186f79272cbe4e562fb5aecdb300df4aedddc8bc5c6af2b954bb4a140"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "2442c06a6bb92cd829201332d9548011954ac5362f0a0d72824ba7f3c0986a73"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "4d45ef2f4d8fd0d5cb7b29cbd8487cafaa25f81dc2a6395331f7a97ab197096d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "fd9c0e7190ec9af0a9adbc801bcc7eedf6182f49efe0f358ea047ee349040bf4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "61a30dd876f319147f9804edb09cc0e923aa14b4aa95dd0800b4d4115e356cb3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "9e5a91d28ab06444e382935d2c2b160542a5270e1c26769f2f4dd4b1115aba12"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "e8aec30aa5eceafe049a831ccccb3325ba3fb7e33e7933ef90a94b35067d4492"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "24ccba59763d8cbd7c5563e7502efecd73865538157f67211391fd13c7d0ae3b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "64321fab7e98e980063049ef7b1a779cb6063d7d7c46f1888cfc826cfc9dcee4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "5f1e66b40dcee31cfc6f9c17e02e4150e5c2297c0c1bbc43cc5c25b43bd7997f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "bbd493cb8466a73118d3f78969238c6d06a6f090d17b9ed332bee1b5fb5feb2e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "47c480d027760b8cb66ab7eced7d4529cce936fb472ee8ca5ed88f84d0f05783"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "aa1502239636ebc1a53e76b0271a6f6a695b804e9f50ab5fb2db2c03a1c18c57"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "27137b17e034148f67360a37bc90b4dcb77e9fa4cadea5e770899caa9d3f4c24"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "6c23145e255d732d177a1f29e37e4602a4d7f01b7331a20a11f83326b4c09687"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "c972b8edc5666598e41f484f2595b8c766335bb0083ca3eca6410961f7316b9f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "0b2018dee017f9a6dd0d7275153dc6f63de3cafb7c4cd58fd92c1208ee57f436"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "904c678e3d3d6d94e8a1d8ce2fe0f040dde798efa0362b9ac2d016d49b63c023"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "25ab1b7c605aa953be7d099c5821aade5cbfd7ed75b86d5f0d1e6d588b656260"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "77bff9b9e638173e73eb29ede3bf565149e3909ab90c5be118181bda11e276eb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "d8be18ea83e0b8106ea8dae12438c5cc61fb6502b04bfefb05d71daabfece21c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "a8de75cc812739775d03b20d1da1ca595594a8439b4bbed537f9d20eee60edc2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "4c7a66c178281993feb08daf83eb81a9f95b5f4df6bea73d1426832aed55629c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "4bd8289bfdf3ba069048de4c595df5cf8cc6f68780d5066d42e758d304fbe331"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "3c178cad64e8deb5f0c477340dbcb75339b138f02485eac737b8ead61fff6c53"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "0f43b1a5839c13f272258bc0260445fc3af71b249ed94cc7f369fbc7fc98e128"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "79354c391c5fbfeeb9734803d55aa746dce9f497eb059cab611054f8e2c3dd38"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "46ac0b27e8cea755875a1a2f54673d07b294d39cc4380137c43cff448ef93d62"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "c4790c773ca03e4d88dd32a0f55038c8b92f6ad282a510a68240ad655df79800"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "bdb02f766dcceb1b28171accbc758b513ec60f45be7df5bb3c700c7c81464a0b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\README.md",
+      "sha256": "2cc824a0fd050f2688fb18b2168f3e2476890ef2ba38540f282c8af845055b50"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "9a42b899d6360edd4f180bed7cdba03ab031317cdd6691f3162f4649679c966c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "b1330488587cbee5106491875132c6979cc4b38635d0de070a02364c6cead0be"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "66da663ae211b695dca65976954d795345a1b836aa20ca2136b89b415f2ae9db"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "09d5a783c4242036148200c9cbbf615f8bf68a50cff401f41fbb998e256b4c8a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "1b37800a93fc9e6badfc07fbcf8b2c3e3a3fe47fd04e9d69d590e0fac9e474c4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "90cdec0903fe2ab5f6bb3a199d30f17c3b5b775b34964c4592e936b81e8dd902"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "9ec43ec9450332f0f38adbd39941d05bbe8d27a7d1e80a586b57dea023d5158d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "7219938bbc38be88af66b806103c5ed09f4cae04e86e6dc28ed92a34fe53adfb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "63d7335de96835ed52ea7f30cf2509253b07767a5f0c3c5b5e1563ff7f5de427"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "29a29c48c95adfed007e46ff1bcf284392b1a1c2f85a96ec08482fdd969fbda2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "0a7e9761a216e2dbf82a812d20d18ec25fccc44e91bb97cb8c5a95bdd28be895"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "8af47a8700e19dc024ea562558938dbc89e9f16ff4b770d8832cb4c9edc0183e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "573f0c01397afc93fd6b3ed070e240e7724358feef16f8571cf169114a627633"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "c5aaa708561fbb84b3371a3f565f4692535251874ff6ab0cc5a43c9e07b2c7d2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "97312abe7b4f226c69720d9d1007148bfcf8a80472017596374471586be3852e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "ff3629ced50e6d2c1997b44b49273c55860e6cc1ace954ea9d998eedcac22ca4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "82cd7b52aa78f347b8e40aa08dd7b1364882b7c6068e72b8954e3f65334580bb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "ffefb83d32cc9c1967f602b1036a423a4537af61f77daef9fb848750107f14db"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "2ae079de38edecb3a2a442b7eed2b1fe50b50d270e962b98fd535bd1c7df5623"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "00699f8034df39fc54592ef294202522280e660ca2739dbf467feaf66fb0c945"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "2b06f5f7aefcb0a8c61c9b15ce718c84736b6de838b23c406f4d60e2286bd5ef"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "356cda8cf0c927cbd2c887320f43319f2e4e5364f483964a94db081b29141491"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "b6f99ec7dadc8593653c2d16b15e25bac6711c53b1c9627891efce115ed3f8b0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "831e8a697850c3c4f70d130a6a52c6f51f174303362af1fed4c7731098ae9f58"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "4df6cd457353fbadb65f11dc445f28b4c1bb35d54e1c001bb19f2126daba1fdd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "1fbae5c05fd851248e58ca7154626311134c964ab5dbbfd7d864b88bd3a683fb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "2677d1db529594e3db12d61d3d647dc3eeb73ab5357cc6f42358b3c1169fc948"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "f19ae96d4d2f431d47417176e5f119005de494ee36d47aafd8cfb35713c33b78"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "3f6804a075f98cf4e60f7cc133f822f6ba611d07d7d99c3563dbfa3d7342ef60"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "e1b975f3a40f1a46991374fce0371dcddc696ba00363817b3ce253bbe502c193"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\README.md",
+      "sha256": "71125575cee6f1497b78cfd2ea62e56c8bb6f167a472cbd5a514dc8c2bce66a7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "d523c0dcda8005b87ce3f572b9aa8b2acb1d4db15c9e86968e74b21dbcfa3e23"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "3d6387b22b4724be6c545b93b05ca159bd5a82d9ba03e89b346ab016fa1bc151"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "3c910bc5e766bc9f82d580f982981fdff7836069f8f993291bd2ab4ef9864abd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "15356bdad9839672f74d0b221a07a26f765e95011e2e1fed09185ac94bcae8b4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "226520bd946b2e8b37f1044f1d57744761c6b6d7cabd23c5bef7ec581e68600f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "d1c1cf5a75bcab6d109eea5ce90828842d4f758fb17b3be722bbb9c3596f110a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "7a5086c9666d2e5dde7e4297b80b7e4ca71fe8f45a2a4c2db0f810f680c4dca5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "c71d7d864217d687e950b4b154012ece975fe5dac28619471aa9a41d395d60f9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "fc1005a154505548ddacc6455c26c529d538cbdfe3fbed181406ef67d2acdc06"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "111e2a5644af34ef2c58f5cd0d48107baa5191bc162c6643c968b514322ef5d8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "6d99caa7876f2ccda67253ca561124ae29b89a80a17a861cea8b7517979f9b5f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "58e920c4a31523bdb5567864b596eea8470e2a4960576a5ce0ee4b2962bad014"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "1f199fd45ec05f734a8b84032a1711ab94d221a9aa4da3a9a01f947979b6a6da"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "13ae5218cfcbb56cb7778ec266770f559cc0034da0e4f8b0681353fab9161166"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "cfb7300b0a89837504714c24db2803c09a54f1ae05e57d0c448bb70d54d6d5c8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "6ba063c5ef3c75ff956d92834a800cc74e78f8be032a23476870c587ba827b0f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "36028010fa4f88caabca7c721e6ba109cd6a17a18ce0489e5c152f39fc6f81dc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "09f098a1c963b7fee7733eac8efdabb99d66a19cdd5c04cc06a9bb324410f3d9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "c05dc8accff42b033b986699e0541d4b00788db2421ba1f8d06ce33eb978e6be"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "8a76dae11db7a56ab072e194a50d19bbef65df048df727c3758b686e65f2dfa8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "93cdf044a2b79b8a844f4c26d6fdda68c8cbfa0cb00424798b0c66a24c6f8959"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "a18de36220422ae01002c0d57d4fa7ac242a99308e820916f5c821477db08a53"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "24d4aad4ddc97611eed4d821c0b79f38add0a5a7a1c7b61032bdfcd5ba181b36"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "a41f4cba98d647fdcc261d62abc1e4f18b2a75bbdcd81aca142f1636d2c554f2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "e533ee6b0f950fa75e8ee8e42b005de12207c35ec5f096e4099ba1c3d79f42e4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "d36901be8ab1a36d0753fbdbccfbd80976ae9541d8e36d87083a33edcb16e36d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "f25a9dd384b020d7e700d3ed8c4a556dbec176ff334f25e8c0ec3c167f779e0a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "c9d606e9d3989f67f9428ba2d4c4d3352f93d5135a994673696c7f458e9f6c41"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "14882893de4fdfce81bdeeb2464825b29b2f1815e2ea192d8a8ff3306caa1c47"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "e9359ab5b3da65bfc4644f0a318b6594340815cbab62c097ffb09035382d23b3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\README.md",
+      "sha256": "3a2f4076f620b84de1a8c3f628751a445de2f0bfb5932e875e43e2f46bed323e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "592a27040d3ca632e2828362cf47410b277be6005b4a3c8c2bb9b707b5f2e8a9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "517d4e868ecde3aef0029c6c8e9ee21760975008500d2fd2c41395e07df5fc24"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "60606296915eba5541d089b2fe8d2b7e2105bcfd18a6511b375215aadff92d92"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "97b44fa4f3503293c5a0a57391b137a6630d0de2d64c9cc864367cc0298d68d9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "bebe19bf9a6d7d066c432a1c030d68e4d353469ff581b5be3509dc3bbda33494"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "7f553f4607934d2ef8f79d13c7c97bb886ffd3ca0c8ad5dff40a505cc7908855"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "87398fc60696f98d6d07b9fc48f0375f10cca2bfe87a891eb7c634b824bf81bc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "4045298079010529181e7976b5ee41ad10f548ca111b9cdb9fc2c1b71a3e5724"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "f19202285ca4f5bb830b06c7bb195a4b0640f27bb538029fbce0375a7c7e7939"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "2e7cba89fb26167ab2f0198524b49bdd054d2d9d5f1b3ab7838a54e5c26c6a33"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "67314e7c60665646f9128cf5b0f72b1dcb6c53a6da996c5ca28e6223adb188f2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "893d7c7261aedc042b02c0c073512b187e96b29f217a38e2c6b004953d744489"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "7865d5a228458b48050347d759bb226e5313fbb08f81a5f83f777e1f7e952307"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "5251afd32c7a8176df978b26b7888222c2cbbb0af57f0abe5cf2c85536487903"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "6098f55192fabacc12bc02f0233799c000b454bdf5798c587a6389c1694bf6e8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "88d7fb1e8338b7389ecab978fca377f416e657f5386530bcaaba75040ad009df"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "01cb5309c2cd655f57f00efd1ab573205cbb5b203a809678feb1b8cc0a572caa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "f800ccd44f3a7d44bd47248a26790390f917bd43a9b877791975133995d07f11"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "d58dfb09cced7a50650984870dc41657b82cc2209b3c6d5cb6ee407aa22558b3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "4632993208d1432c4eecf6b3e474a80fdee086e384422e24cfbf9878bd0031fb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "8b834b7d24834fab6df8d98479fcd6b9a5290052b852167f01245185c0d993a2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "c8f1881cee5e389fe9ff3656a9615c846f7e0f4bfac5f0e1b894675578d68712"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "5d8d6ebe25470a1436b77c71575b0c56fe2dbfccd0faedd700de9ae8acd74ae5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "3cb63fe39ef4b74e02aff9548fd01c0709716edf9f7ec70795a3ff70e21f6eb8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "60a6a132dede64b5782d6c7c4dd62b184f6f0aafba5613ca2084a6fe23844cf1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "0d89033add68fd4790b758be69d1f48d80f1826f4f62a6b2c1a9d48281574109"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "5aa1894ce24a87dce3bd3bd42f3e5a76cea1f1d104543cad546f98de973ce656"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "bd59735f29bf1083de24ec9d9323ca23d17c4105cb249dcc2dd3fff9f65913f5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "f8515266bcd94a71cdef5542c500f0470f7d855f6fba7dd10756ec754de45238"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "c3343281d72c1c54886314ed2e3db751490fc1465abaf599cd7a5079568b338d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\README.md",
+      "sha256": "3c6d2e57116552c29f27890e4ce74611795f98650570e82476d68773fa3a1697"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "06296f94f8cbfefdc8ddc498dd7155244a06ae56bd77707a2f0960d90196345a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "304137b27b4d94561b6118ae45678cd9bd552c49c5f10b1bfe6fb2b36deca79c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "0798e9d925a5b0f0f6b5dcb88b77d6f761870f12632c550a62a52991e6cf0c56"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "202ac765f931edad63caaa335a6d250addcd08aee9377928d1e7fe9eddb2c409"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "d7454a0c883bd6fb928647b0371fc5ad702eb05d4405c6b0d469e63981c24cae"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "619eeea313f6ed33720cd9437d0da8ad4aa7ce50fb047eefe294fa1f3ee55452"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "5d0c322138ebb7f0676ccf061b9b94a68c7358751473de1d747926d0005ba222"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "fc2c6b4d06609e2b4ff5cc919d392cc268cc0a891298b970d53793971a544af8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "4a8f39a86d8f90cf8cfc3109daccba96d6f5db8d5f274ff863bab102d4351e3b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "4c2fd1f8d7c6c322337aa8194f3fa45068d6cee6b34ce030aa4e0d7fe8f295a4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "95a1d4fdce7d105f1942b9b05edb55ef92f8148991f5ab2461c89b1445004bac"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "a96e21f80ed56e4fd0cb0e0a06654b523b07354029c3d033b08ff4c22f4904cc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "8cf94842a0e76ea6e523c5c0b200bbd49c31321a86dca564f91480d6ed016b2c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "627127b6e265657e04a906298c7773020179b3b5cfece0a5d0ee5399a6ab8d14"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "4e86ceed44bf701a877f9bebf431e9262790928a77a3551ae9bbe96644a70211"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "91931eb31867662d74925050d09b72561bdd593a6c6383ba178d2e1896111ae0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "d9fae0c4e93f558d987997f3f4b6fceef27ff2b3f7e45f7eb701de159ebf8d67"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "abf2253159202a76b93dcf6972723813b71a3c4b5b6df6e3a17157f703db2c68"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "0c474c6bd06b593e3568a6b314c9d20258c69c8854a64d751753c0fb95cd51ba"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "7d8871e433c0b0d5bbcf4c0893c9e46397864345f202e1d692bbc9fb65a2a4b5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "edea84c4f14e36920a3bf1bff90fb75df391873aac4b78f37a8cb6e404dcc06f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "bb2fb8e06587a7eb56b2b32415fcf05b52fff39b7fdf937f00ba9a532e775319"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "832a97cd410c09c809879af19ddb11b710a379c57ccd313625e7df4444e97515"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "dafdb26d96368842ea58fb33654e3fa143bf3b1ee4b310dde447ffa371aab2be"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "5250ba0b8032bdfd98c516afda5956ea5bed9b9c46b85b9d97d6253d61e3233e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "ca64af73772f8af09b28d6c430d33f6aac5924e7b284f17c72a5888cbc751dd4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "5691190af4e791f7b03f8b9c0385965c03680b6bd1bcf2f35d6822deae9baf58"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "e2f458588c26ef76e4526ea3f53a47bd7d9ff80792ff49e3cab8a2a17c78c08b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "0d0d2bda7a2c115bf6be9d9364d85dd1a0195593faa3dc76a85e527914a3723d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "ed9b28ebdc521451da2848ecd910c32d6a0c852d99e2e02ee6d4ce243fe5d94d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\README.md",
+      "sha256": "785c0d5b2ada07917f5e18cc70765a2cac806ec06c4748c63cbb3d803a6b597e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\rounds\\01-javascript.md",
+      "sha256": "d29b7db151b6ab1e2dda696d3a8e147f3c9a16ae1f72ef5728bea11c9a7a92e3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\rounds\\01-javascript.md",
+      "sha256": "71671e22da089a7f87b64a86b0436669404594da2a229e4ad95c5542710f73de"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\rounds\\02-react.md",
+      "sha256": "1949415f1e680c9e6dcf0a1198077fa13b13d1a0f38e36e6462b0c6033359c3d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\rounds\\02-react.md",
+      "sha256": "543898f1dfea256a492b5904658721b82688b4db4120acf3d95a34c76e996c49"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\rounds\\03-typescript.md",
+      "sha256": "829e13f09db6a042fe13cb865cdd6b2c6aa2a47980a71085d18f7fa978d2c9b8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\rounds\\03-typescript.md",
+      "sha256": "885d5f2d2946853286e73fc39e82739a675e4a18dd2c958786a585be7c79dc87"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\rounds\\04-async-api.md",
+      "sha256": "3459b252e45a5ddfea5a6a7911c11318f1f6d27da76750231707b0658e923d64"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\rounds\\04-async-api.md",
+      "sha256": "17af54f771d19884123615fd41d68dcaca8109b91f053b743ec4411ab5416b68"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\rounds\\05-debugging.md",
+      "sha256": "70b39da54a9aabb8d4ad81f6d83ee78744ef1ccc53a4a674e7ce7b10d7e73de2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\rounds\\05-debugging.md",
+      "sha256": "8048b71562d21b208f8a243de4949ce5fd0e361b36d5d102f1520faf6bccd02d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\rounds\\06-design.md",
+      "sha256": "154a02459651a95586aaf7327f2df2d4f8adf674bbe198f6bdcb2e3031b1ec2a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\rounds\\06-design.md",
+      "sha256": "188dbffbc5e06470b5ab8b6dc84a2e8d5c11f05c2ef67de57470000f2d607835"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\rounds\\07-review.md",
+      "sha256": "29cd9cf9fe9449f864d695d94cc0430d6e2c0e8e175eca2cf81993bd3f882d1b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\rounds\\07-review.md",
+      "sha256": "50fa6d5649f91a87b292cb9d5593e1f436264a8734c8a184b277dffbc5d905a8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\rounds\\08-behavioral.md",
+      "sha256": "73cacf3f29ed01369ea2a4a716b1c0d16c86d187b4b296aad6935dcfee03fd4c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\rounds\\08-behavioral.md",
+      "sha256": "e8cf2c60394265e74838ad61df9004152800f5c66e9cb4c98c558ceab1465b32"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\STUDY-PLAN.md",
+      "sha256": "c8a61700c56d1f6c2fee3ebe7fa59fe90fbbf6d8191eb65d65ee71d72dd0e1db"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\PROJECT-DEFENSE.md",
+      "sha256": "74c4fce5b41c290f7f43686a0330f541aff848c1c821b200b7332f5b541bf2d2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\SCORECARD.md",
+      "sha256": "9e0e4823b0ee4f35cd9ba25b3def5422d79cb10e0e0e146a3e9b85b1c8207233"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\mocks\\frontend.md",
+      "sha256": "4d27c392ba7b23e6d03b72760e3a93a14b4533d459757b6133996e7175fc69a1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\mocks\\frontend.md",
+      "sha256": "7228a3940ddea84026b133496702c907719fbe75299b7a51ee73ff784bf42b09"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\mocks\\full-stack.md",
+      "sha256": "a8825ebe8cb39ae90087ae00303e668e0510b3900e1eddb971cf288aca9584f2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\mocks\\full-stack.md",
+      "sha256": "652036d7d64c05ba62b4d043cd2f2fd53299b39a0d83aa81f635fa3485ad65d4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\mocks\\project-defense.md",
+      "sha256": "5c7a2767c452d4f0ac87fb9edaeb3bfe1721d5fa3eefc9c0b3be96d83477115e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\mocks\\project-defense.md",
+      "sha256": "c11dacc8f75873f71aa0ea11d54e446b5eb4252acbc7d05e114c0ef4f910b402"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\coding\\README.md",
+      "sha256": "1bafd1040e618be0904a82d2f9fafe876929bf268f1fa24ee9ccf7fdd0dff0ea"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\coding\\exercise.mjs",
+      "sha256": "3a978e90f7e15dfa7eb250c9f61483db7c81adfc7f713736383c3086560f6ea7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\coding\\check.mjs",
+      "sha256": "91ff25aeef723b2ff7d0a80cb04e5550a664150f8b62f3e4f5604f8a3bc4ef59"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\reference.mjs",
+      "sha256": "8350413274ec546c548ae90c2117c718f936244a60b85022eb74b0e25341271c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\interview-03\\_interviewer\\coding.md",
+      "sha256": "232c2ed24cfe0d7c18d979082b5906edff1a7c0595aa158e40f248fe8d947d02"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\interview-03\\README.md",
+      "sha256": "6ab38fdf476c7527815c09c697e0d16559f8b2b80c3621e515f4bff30351d4b4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\interview-03\\TRACKER.md",
+      "sha256": "0b0cf5d3f7c4463008cfef6421fb1a59f6ae596650937843a6b85527907b6821"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\interview-03\\REFERENCES.md",
+      "sha256": "2045acae25ab56d6a1e6434654c38a80a4d34528b4f0f3f34eb83a8a5e5fdd15"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\interview-03\\FOUNDATIONS.md",
+      "sha256": "9c963d21b015fb7987cfa972350dc5764c81778a4130b5cfcb3e528e92bac632"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\interview-03\\VALIDATION.md",
+      "sha256": "a10481c354505693477896c4faad22ef8e5cfe02fb5d97b8bb3094d73f4e43cf"
+    }
+  ],
+  "verification": {
+    "node": "v22.16.0",
+    "reference": {
+      "tests": 70,
+      "pass": 70,
+      "fail": 0
+    },
+    "starter_expected": {
+      "tests": 70,
+      "pass": 0,
+      "fail": 70
+    },
+    "local_links": 1823,
+    "preexisting_hashes_unchanged": 2502,
+    "new_files": 316,
+    "scenario_round_combinations": 480,
+    "distinct_scenarios": 60,
+    "application_runtime": "not run",
+    "learner_mastery": "not assessed"
+  }
+}

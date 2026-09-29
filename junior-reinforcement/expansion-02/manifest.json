@@ -1,0 +1,799 @@
+{
+  "date": "2026-09-28",
+  "projects": [
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\lucasrouter",
+      "pack": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02",
+      "title": "RouteIQ / lucasrouter"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\perch",
+      "pack": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02",
+      "title": "Perch"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject",
+      "pack": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02",
+      "title": "Grok multitenant project"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\gitjira-app",
+      "pack": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02",
+      "title": "GitJira"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar",
+      "pack": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02",
+      "title": "Bazaar"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\astra1",
+      "pack": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02",
+      "title": "Helios / astra1"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1",
+      "pack": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02",
+      "title": "aaa1 CRM"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\buildevent",
+      "pack": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02",
+      "title": "BuildEvent"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\buildermentor",
+      "pack": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02",
+      "title": "ShipShape / buildermentor"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\astraspacegameweb",
+      "pack": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02",
+      "title": "Warband / astraspacegameweb"
+    }
+  ],
+  "files": [
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\README.md",
+      "sha256": "3ff62564ef1bf24cbe83994a57fc65f0ff4c240ed9c87711dc7af395e67f8f33"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "3b2e2734a4529fcb9cce0957fe6a3260ac4eca5c770f85d7298355f2d5f570d6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "396ddd539295562b206e89dcc648f76f3bdc73e97d2ea7a16f846b9cd71f9d75"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "f4ad7954685e289a6b597ea76d3ec002faa93c2359aea85e565f64e1a176bfcb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "d234252bdb3467edb109ebe9136ef021dc630a033df97243654cdb99e5b8012c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "61cebe7c022af3721f4b97a50b65ec2aa411a0dc25331010f06c4af73024beb7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "713f41b913a5f39b21ce543e7ea8b7ea00145b2daa770864c02a39e6b6bdc493"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "407b0262ca23e678f7e11bce5a614ed210e53be6490aec7d05c87c471c42a1ca"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "453da55016116499215a55f437407afa0e47e8978759277a274f47ea9cd12a3c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "604f1be222618b90999e1edf619565887aaba4057b1b3a50e6ea8f840a661183"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "8ebded95729139ae7aaa92c22e320a6dc0abb9de09ace55bbc485ebdbef7fc56"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "909ca94296968037ae34bc6e214c8b288c6b4a89a4e7e24defeefd676da19623"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "a6bd8bc8c5ec008035ff1287179067e083932a4587b0a56ecbd35a24e82f4028"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "9e571e4e27cdd74120912a8ed6535abb0c0e64f6e9349fdc513691ac74747bf8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "2c1e4a895fb324c10297674b4522b3fbcfe390d73b13e206082b0b62473d7716"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "0c0314050bdad8482784944739066c456661232d0cc21289a91964e64d315f1c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\README.md",
+      "sha256": "94267825a7b76cab6c978caffa131857ca7da9ca2fb7ebff61333446aa82ccf2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "52b98770e073778926fa9f0e61aa7250ea0c0d27f9c32bae42afa5d2722a388e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "4678ac8206ab5926c022ee9f290bb0e1061f103a3895d95e2a432a67d019d2ab"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "bd9457c80efd13eaa510e7d2b13b94f3af24a74047546bb321233e3cbd467842"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "718d045ab9949ac83cd5218c8277145001af1acd077b2263d9c1a6667a30300b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "96200abcccf2b971b63ff13eeea7f4a8250054b1669d86d62b055559d54b6fe4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "6108df6f5b4ee47155610c92b16217ed550782edef0cec8dcaa707ef45c3231f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "830032a06b56e337beb1c39cbb814f012314b5f58504f61d562206259c5d9667"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "bab055c4cb96213a937bc20aa01d9768eeab30729e080dc23e695f7d3173e24b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "9290a5a8f3438b96e4f4aaebff8588a0958ddcae06653bdb22bc6f4cd4f2eed2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "64ee6cb57ed83a56fdfccc9eca5b83f8371737452cd68293cadd0af6637d4e0d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "6a1f693db957a73bbd1266c8c5a91b095df3e11d5cc4ebc50093e6b68ca8c46f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "76bbc687cfe86a4eea93d7a5bfe5b25dbc1f2b40c2c891ac34083e60c25c95fa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "efb47b0bc662a5cd65ea382d46e3c876edb40f4dce30ae79e7bade4a5420ac1c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "df347c10469ea501ba15a45969c83ca6626a54e7ce1b11c44e6e2e527daf9c0b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "ae95124a061d8280111d8e41635757811c5e39c38c35d41e75a6bfd4c541d400"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\README.md",
+      "sha256": "3ca32791cd50e61c7ff7d79b978087cf4d812ba65437f4042f0c6459d0023f29"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "235429a90e0f8a789edd5d057775457d5fa1841605cc99e78f5771312b4134e7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "f9a0c0f16e244cf2af1120a29e5357734fed613429537030e9d53dbccdc5a0cd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "eadeea5103b4644e3da3c8e8e2d05a848fefbf826e0895f5e989af2cec2e6980"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "b2d4ffaab11808993fcbfc6b3fe5083c8cdc2c2e91f2c5dd73086fa024372eec"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "e4151fc93dae0077dbadae6c46b075b2ad4f73cd69a2d038fd665a4fe28c64a7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "7ccb9637c7119d25778b2ab472b16964868cd91cd2fffabc0714b3584bbf018f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "ad3fb96a208004d24f854b7a33f05891e5abfaecdea9aaa751a5a81e2285735b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "3c6d848ba924f8de2671b3a0b7e13a496f4aa90310ae9a68ccf3b7d04a5057d4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "faee95663609bc86cee4c181ebf82e34cd2cf73bdd7c284fee31292aaed5203c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "58a36cdd9499004f2ffef948177b89b5adefbe84324546970f4775ec9f2c6dcd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "0c2526b4a9427836e03c80061acf411a9f6fc56ad1678cdd3de0a7426a4e60d6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "479793e28a8cdb92a5ee7290af2ed0133b924f2b854f743544e47f9483e4da28"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "959178acdfcebc601a5fa9d9203f91afd593a01e275a28b8a59155dea8ecdeea"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "4cd2d04121cd976fa206a94bea71780231e7b388428ac6a4f72056c420fb081a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "127bf98ecd36eda4fa0f7205323edda19dbb947d59cbdd70eed51ec8a38cfcb1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\README.md",
+      "sha256": "0540de348594bec0c46b1256521ac7260026b11ea4a9d740a7983c398d2c716b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "9699e727bf5dd2612f746f92977002424f744a5bcb1fa18a545320ec14c182d9"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "fdc1c40ad2e7325c516e849333cd5e05648ff3953f171b3536559b9eea5af457"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "6795108dd87862950ba628d01b0d1bb94aa6faf0d483fcdb5006e3ead8f6e536"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "ba211e06139e1f14b52837f57244f9c9b5ccaa21c62dc0179ce1f04654f8e83f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "56b9891042d6be1b2d3fee0d26429412cece8f2893971c627b265d20c5d3d30d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "c406dbc9200757778d42d2f8872514cdb10637124b3b1a8f940022f67a00680b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "ce1abeee604c4eced72e03443b9d9a12c3ce7eb036b39638f8e5fcec6f0b472e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "98ca721ffeb3859b8096d78168a63ebdf986cb3905bdb32c123c038f7a003579"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "99b6e13fa84a95236a61af48a43df81f2a9471649a4783e74b1d9e773251ddaa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "8953c0f8536134fa7a29681797631c5fef633422123ce3dc1e10137e5cbf74b2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "73c26f379fe7ad9f3ad3150d566c9c125f9f2c9c54f5e4aa0e7d8281fde4516f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "71f3e4f13c1c7f0f676896b3005db27499a62691346e1bab0b1c9b98021a09a8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "802621bd2b0641c3d1fd05c44e295df0c7436dd4d30128f67adf939df63d9233"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "e5e8148f8304f437bfd73f113f77b7830ef1c21fa995b2297a5239198893f965"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "7c3a200ed0de776df0e621045b84f3f9eb04665d60a9f0b4a68f2733405e8456"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\README.md",
+      "sha256": "291103604463db3ab803bdbaf2cf717a3d24e1686908ae396479dc93259bdf78"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "bc1ccb65c218f2b901066e7303e9396f1ee996218494c2a4dce3c65d6a0abd30"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "4421ea895aff01c929c2fb25341d25711b942506cd68a7ddce302293a77771fb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "2ff3eb93e46d6df394cd8593d1768d5a3ccd0bd10375df8623e7fb5a4200ad67"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "5293a150fdace25669e266e6d90cfb2ae3d673758620fc4d1576a71b88e5e2cb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "53e7c6e3d8cd78c6df744fdcd94595ede7887553b97b8c3a583d1c1692f45aab"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "e380f053a95092c8c1b31adf34354d1a918a988b6a0b414e4269bce5b72488ee"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "e15a7c63389a8918291114ea9d239d083b83aece2b53172a50d31431493cd975"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "1b2111aa345c441965e35cb4d4ea5e937b416c04ed4bcaf7e2c0b008e2acf548"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "7c2158f20dd7ca87a4bce2c62dfcddb130d397e9d4042e0b7c2ebad2a0cec76a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "781d7f913193162a1a435309bdd9d9a6cbf6a5a8412c77beda15bee56bd98935"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "5c9efdf800bc1f914f66d3fba552d7135754153c7b624ef8fef6edb1609a9f36"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "6652d56536f5ef0b6463a5b4bfc695ecdbe7b462732499c848c9cf4616f8626a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "5f60136af5160174717980e35e1efdad3af91821bdab8b26ffba4ea9d05b662e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "4f8d12d72dae59005a2b16a47961fd6b8465b42ec32493fdbeed6d47f1cf3c6c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "20369c21c5f461007b18c29fe3504ad389826bc9e1d19c0af071830b6a5c960d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\README.md",
+      "sha256": "4a56ee321604341a5bb9d9b1e2326b8daaf41462b0a1eba57ab55d89bb7fa2b7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "6ee277fb08e49414b8001487f00d3327a7ecd77a51bbcfb7a5611db2e170df97"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "029ae0cc6e256a71b42efc097f1f4450822c4911036f598d4a4edfb25a2be98c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "8dbca92029774e1f0aa6ad502a518c0829299bc231879abca6526a4b963853ab"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "817c586533d3488754d5f8d235a4720b9df9eb13185a2c19e68190db29725b6d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "7d92bf2f6b6d384b64fe6c278c0475b6207c9e5db730977257fee237db80bef8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "455906c9d29c2fd1d45a56863d726b8f2a162bb9bd5376915b9345ad41035553"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "b24112ace8365a21c6673ba53e4c8ce5d718479a78d408cb78bafb2e3f028ff7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "d1b6455af6af0656090d631fa3ee16462161852ba4357dc02cabb5d2f0005808"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "3782fade09821bf130305c1aaaa08fdc43d9131ae762ccc676d202241f8980f0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "173eb8afbbd28fffd07a2216d08d09a672bff4c787f03ac795ddca67c528c215"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "1bf34c3cacaf47bf37fb084aed49df9b1f2179db9378f8f989034267a209e343"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "fae9d7a0d302e8d91ea130e8c945f69b6acac7fbd07a933ce857104409162107"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "46795c8cd8832e2cf679408d19fc9cf93a91814fad8ae9d770d20b75297939a4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "9dd624536069ca7dfaed4f1e17fbc2ce70bfa96fea31a5306c0611ddcaebf2d1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "59a229df8fde3f16bf05767c7be317beb970437afa6b93f67816fa452c4c6f10"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\README.md",
+      "sha256": "1190d43014e0861702b07700924a8405517a168df0d18a51aa854ea95c4b3d7c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "82a29a8131c022aed92e9d4b68a50ef72f07e21dd8b57b2a5dcdaa8055e11d48"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "7a21e30b03002b7eb257758689ff065b9273806ebbf8889d9846ebb1a3f1f2db"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "a4fba20a4ab37f74239972879f97b6bf02768688fe61918736863b15b61ec41a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "a45a68ecf724b8b36962601c17ff9a8a90c7f7123fd4662c0784dc6f8593741f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "c77c70e0e17f6cb72610711f3c6e90bc8cddebd436c320eee4a538567f5cc431"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "b06b52ac1db99a789aea5120781642691d4dcc8d23a7898117036cd1ba28d21a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "b827b21675ddcadc4d591d1bfcec59e17e4de7db85049565141a0d7be23a2d31"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "c4512dce5cf248cf3fb2673f782b755a49d2fd26c600ca5c533b20c86bef0080"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "a925c522a6c1fa7288c1dca15ef916790e8887c97b7c08f1d59a5a930baaa691"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "9c2d2b17decbdcb2fc614ffafe581e46db1715eaf69830293272c381f06f9271"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "cec9d385c2f596b8137f6d8e9de27e22e0643b3a65ec3f78ea03b5cf9e638bcd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "afef1958e7f67c42eb4ee77cb913cfe24a3a6016c282c0fb732e402a8c23ef44"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "6548af75017832514be67b8f5a3dbf220ef71cd9a12a0d3dfcf95932c5b39238"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "c91fa1c5fdf7092c3c27a7b6a681377cab78adbc15ead13fa9fca03b6c0c20c4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "f09a1e5091992dc96f26890c8803cbeaa76ad7e8da0f96e8da52437affb54415"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\README.md",
+      "sha256": "f6d3828a994264ffcd03dfa3efa39b1bc41b4c93b196fd7742d8e7bca55ac9d2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "c51fdd3a97fd779687b0250201357b7bca06800581f976a0de1f56804f7741cd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "8dff7b970c9042c98e602ca1233dca69fc97aab50a35214a04ab3878f2fb21f0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "0b5f034c8221b55404d35f978d4367d2e8a5f54aeaa0c91f98ff517742a07b8f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "45c071922088356879a0a1038015218f073ac9c9a2013041dd1205e4f1df356d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "41db8836df77868b30e19225642507ca0406ebebdc6a5a318f9a1ae61443ed1d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "e1db0de059d2447712f3e3828040b9f681434cb7a42a330ec17864193c464819"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "4b37688c81d757c54f0ae3b932b2de46c1d48f24b88f3069c894c9aa2bf141c7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "b9027544e4535a634400218d0a80f64f80b4acfd1be85e638dbcfc8458762fc7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "96776180f64736ef4cac354030b2a3b4fc30fd93868f6e4f88b898d3d4fd2576"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "6c5cb962f9e854091bbf65660a37a148ce754703d7400fdec34ffe79f8651d0e"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "a48fde704bfc050abf6cb810330358106f54a2988d9c23422e4da143dbb52365"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "601641994ca93be1fd7b1664fdb18d20201494c8d52ada3df2ef1eb1c54df233"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "af00b1024cde3016b9411822244f9048531bcaa5b30603d766c597947ba0aa1a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "4fd4302480b378eceefdb473f56c6e48afeb2926252d1e2e6d236ffc7b488b3b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "7a51f63cf89eb599c66689d89402027230556469deeba90f9fc626f03a873bd7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\README.md",
+      "sha256": "13a56c7115570ead8b6ae08cb00234c102243d53e36a37e63b008bfdd942d3ad"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "9b745eb94fb3b9d33dc725307b510b1269998700731b38890769c0ce54b589ec"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "8b5bd67f2fa685b914ad059845151b58bb60dce3b1efc1749b373517f59289dc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "7e469c2406fc72bf9d1a12ffe143f84377cce7b27809ada84ada2d923552f524"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "7fa77bb6020a134032391ab786d8b4d4dd478a53053fd44e96f86d213f1815aa"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "c42265d4846a27fee56fde70b501db507e2cb0c757564851a52950cdd324b6a5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "e7f7fa43b63ef7647ab89652e382c764694e7ce78914f95e75a29d67e756a0d0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "a03706d5e4eb7703a7c4a024573fbb0cdeb5fd1a97289f4fb41472be31faca5d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "229c2d0f3add2411759fb73d998102d875e39de186924f9e2563fd57259fd81f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "f1ff4c72756d4009d4a9c5259509d2c7e251959c8b51eff0c7a0fb5020a3f4b1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "615e763d5a5b07f5b1a0eb3ae6e4b9134a112dca89f2cec7cb22b4252b9eb042"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "f10a426dd0034b383a5ab670f2f6bba6fe5b3ff2e2958741b724fdb746411fdc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "bd0a92ffe792574500b093ac7a8c1febcfbdde67849fdd0c674cb3ea28091f19"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "a6f598d2fa5ef7f41bfa8f688f539cdb3cca0325ecfd6c0771b5b55be583a624"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "7cc8e0bc9ba9e9c4f671b78510ed82f52bfe7aa449c1146be96d8380806f9839"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "5e5e93055cfdf2c7dbe00832136b201b30ddfd9624dafe4ae4607ee1e19e0f31"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\README.md",
+      "sha256": "97778ec78e48705f92a429ff1a33750150c7836e7327c0f1abb9b131223274cd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\01-boundaries.md",
+      "sha256": "dce3f0f116e8525a829200433f9807dbfb6bee54c6c19801f74890bf5621c0a8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\02-types-and-contracts.md",
+      "sha256": "726eb9e7f885f827572dd985d7437ba52737c780b3f36f47b26cc4cd26070d18"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\03-testing-and-debugging.md",
+      "sha256": "89495af0a2e8b8ca259010cc57b52043b7dea9a0c4dd88f7a50fbcd594298d17"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\04-capstone.md",
+      "sha256": "e1563b7991d1bc9c5600e4caf4eb182f47faf52ac371b4ede1b2039e3a554564"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\WORKBOOK.md",
+      "sha256": "231ceaa2a99328a8160486b785f3de39dbe7bc9a898f20efb6c9603340a617d8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\labs\\a\\README.md",
+      "sha256": "03f6f7a00a2a59d3a0dca24d6a628c19a1dab1dd33a9a7730ae53d974a090dbb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\labs\\a\\exercise.mjs",
+      "sha256": "042a3c9ac3eac3d88caad5d8cbe30368e68fc328b8da0be638cec12b8533d73d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\_answers\\a.mjs",
+      "sha256": "920863ad0d36475014d466b6e34d4362a3aebcc2900f5c1251a6f9caa995c152"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\labs\\a\\check.mjs",
+      "sha256": "43f60b8cd29793349f5c41f83a3d05fc7902b135f514360718d4d280d58f444f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\labs\\b\\README.md",
+      "sha256": "bb3639baf697a1f337e243f2931ab9058f7e704de5602916e7de2292316dfcc7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\labs\\b\\exercise.mjs",
+      "sha256": "656c588a75f90fe2dc379a1fae5ba1917709a0a5d24621feea2e5962f0ec14ec"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\_answers\\b.mjs",
+      "sha256": "e866cf531339af9fa65292643f9e025095af3b8832be42b17d0ca84e58f29e4a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\labs\\b\\check.mjs",
+      "sha256": "2c28696b7fd71701747bbff85b80de6d1d6eea949f2c6a0ed3b8c3e67f9768af"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\_answers\\GUIDE.md",
+      "sha256": "19e0f1dffb20292289d5e0021580ceb665753b554e4b247159e009d916b60fb4"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\expansion-02\\_answers\\REVIEW.md",
+      "sha256": "19e2d010cf01e7eb425fe462304b38bf7e8eb4fa0e0d9bb3ca19dd2b5752d43b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\expansion-02\\README.md",
+      "sha256": "892e48acde6e42abb0608b35d86877f01a1eff5bd1e66a97ccd11ef976bae3b6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\expansion-02\\TRACKER.md",
+      "sha256": "3488444ca92b37f9629f1258eb49f330bcf2d823f9e762dcc6da3189dcfc2082"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\expansion-02\\VALIDATION.md",
+      "sha256": "4ab489c9e8d27197797379165e30b274bdf29f4a6c464dda37c023bce30cf050"
+    }
+  ],
+  "verification": {
+    "node": "v22.16.0",
+    "reference": {
+      "tests": 120,
+      "pass": 120,
+      "fail": 0
+    },
+    "starter_expected": {
+      "tests": 120,
+      "pass": 0,
+      "fail": 120
+    },
+    "preserved_baseline_files": 2338,
+    "local_links": 203,
+    "new_files": 164,
+    "sizes": [
+      {
+        "project": "RouteIQ / lucasrouter",
+        "before": 2149,
+        "added": 3904,
+        "total": 6053,
+        "multiple": 2.82
+      },
+      {
+        "project": "Perch",
+        "before": 2070,
+        "added": 3724,
+        "total": 5794,
+        "multiple": 2.8
+      },
+      {
+        "project": "Grok multitenant project",
+        "before": 2046,
+        "added": 3657,
+        "total": 5703,
+        "multiple": 2.79
+      },
+      {
+        "project": "GitJira",
+        "before": 2038,
+        "added": 3714,
+        "total": 5752,
+        "multiple": 2.82
+      },
+      {
+        "project": "Bazaar",
+        "before": 1954,
+        "added": 3655,
+        "total": 5609,
+        "multiple": 2.87
+      },
+      {
+        "project": "Helios / astra1",
+        "before": 2108,
+        "added": 3628,
+        "total": 5736,
+        "multiple": 2.72
+      },
+      {
+        "project": "aaa1 CRM",
+        "before": 2096,
+        "added": 3753,
+        "total": 5849,
+        "multiple": 2.79
+      },
+      {
+        "project": "BuildEvent",
+        "before": 2020,
+        "added": 3670,
+        "total": 5690,
+        "multiple": 2.82
+      },
+      {
+        "project": "ShipShape / buildermentor",
+        "before": 1977,
+        "added": 3685,
+        "total": 5662,
+        "multiple": 2.86
+      },
+      {
+        "project": "Warband / astraspacegameweb",
+        "before": 2120,
+        "added": 4096,
+        "total": 6216,
+        "multiple": 2.93
+      }
+    ],
+    "application_runtime": "not run",
+    "learner_mastery": "not assessed"
+  }
+}

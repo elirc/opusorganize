@@ -1,0 +1,453 @@
+{
+  "date": "2026-09-28",
+  "projects": [
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\lucasrouter",
+      "pack": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05",
+      "title": "RouteIQ / lucasrouter"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\perch",
+      "pack": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05",
+      "title": "Perch"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject",
+      "pack": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05",
+      "title": "Grok multitenant project"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\gitjira-app",
+      "pack": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05",
+      "title": "GitJira"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar",
+      "pack": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05",
+      "title": "Bazaar"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\astra1",
+      "pack": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05",
+      "title": "Helios / astra1"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1",
+      "pack": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05",
+      "title": "aaa1 CRM"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\buildevent",
+      "pack": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05",
+      "title": "BuildEvent"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\buildermentor",
+      "pack": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05",
+      "title": "ShipShape / buildermentor"
+    },
+    {
+      "repo": "C:\\Users\\Owner\\Desktop\\astraspacegameweb",
+      "pack": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05",
+      "title": "Warband / astraspacegameweb"
+    }
+  ],
+  "files": [
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05\\README.md",
+      "sha256": "e5647f6437d900f812a66b76cd29c27e8a6a12b76bb6493e1a692b4a0ab0338d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "1b9de8c0a9170410ed5fde6437c23e7470e34af74f613d35a9658d5c258fdc83"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "1be9e0790ddd99c60d2b5e4db480a60d9947bbdeaf2f46c507d54421ee99a5f2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "ab0ec8cc667e45cb0fabceebb499b2a5f12b66bde5ea079638ec6519de981d27"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "c4544a8aa18358a0daf310397b8491428274fc4c95a694cf7807887fd43c0fab"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "45da986a04dcc90f6e9632e24ca1ed7c454d079e1b895806987bad19273e3919"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "73cb8760620d616c574173058b7710b2876f53c658fae3f6fca3ffc7a36ec8cd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "ea26f7dc6f1915c2e7249f903cd6872016748eaa292a3cdcc18359fc250b6c88"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\lucasrouter\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "f3da22f1fbea28e34f517147269d1509bf524f5f193c3944f14f22a4114fb918"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05\\README.md",
+      "sha256": "033f8176d11e2eb8c2ca5bd07e02bfdab212b10bc382eb0f99b05aa5836f7edf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "81231194b78d3fbeb233b87a2d926fb824861d68411dd3a1a2260a1b1a460069"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "1f58ff28daa7f80f9828ad579926c296c0cad2d08994655a9fc53013dfe058bd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "eced25ca0106e08739c27bfa1318257681413f9bea0995f749b810491618f01b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "cc8b9c44c912849761878e09bf46ca86a93b2d6613b61e38b596ce1f1a05a7bd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "b743b152fe3e9987559bbaabfbab29c60167e8c3183234da83599eaa714146e8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "e129837ecee18326be034ae242914a5cfa583e1c02d0965b8027ae80a72e7796"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "e2978e6e8c3f7dbfb4a0f1cecbb549b4e3b5db961267d28b2fc5339f132adf5d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\perch\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "a865f314bea7e8ae51199bfebe68b0695eabea805564c1b346daf41100ec9c09"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05\\README.md",
+      "sha256": "8acd33335eee4f74dbe2b4afb6455fe33268cd918491debe0a657875e4542690"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "e5193f1e4d55f41b7274e1ef75cd3eacb07b210292155311972b50b963a2e612"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "a2aa5c2d79144c57c0993d03e3fd499746d266d584cce3de0048c78612613d45"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "f2c18c50e2f0a19a79e3d08f08d99b5c608ab5c2c89f73a7f9d068367e9e047a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "605a659d463c7be17eebef63d9619685eaf46c68f9c28232c688013de97335e3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "88bfeecacac55619af049361d76184e51180aaf36ab728a9a5c6fea221f75385"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "1076fda0a80a5fe0eb591be98726b76b1c6d70d9a50b68122ef7822985599551"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "f48c7418b586729669d2e3360b82f90ff86a2064d3cf2df193734da96fa23ccd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\grokbuildmultitenantproject\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "2c654ce91114968cb11d8d0dd3ac7f13f3b0742af43de1994f8547f24c540bb3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05\\README.md",
+      "sha256": "f60999249d945b168075489804fe64184afe81747f36bd846389ead6f46480c7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "303821473025437ac4c49253026b362beae87d3a87ef3c2b314645765cb65ebe"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "f5cb7a46359c3c1c43e2de4952a39ea30bb5e1aa123f9c8748beb20857846d7a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "836380477d05b5d4ce503a60e97b9dafa10b3f757828a8e77a2fe567e5a521f1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "97669ecaa47fc772e173950cc564c148488eb041307280f67f1618096d2d14d1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "977ee8fa58fa486794a203df8a922ee4c166ee0b24920805a7ac6a381689d6ba"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "42ecfeae42d9beb938af8f99298f375dcc83789159eadf0bd7614b442e1be661"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "2f41322ca87ab8a8b4f31b63f11dd2b7e1c1d77cc6f9f6daecdbf7a89db83495"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitjira-app\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "a9b1dea5f2663e6251b53368eb615b248c0650aae3d72c9181c4be5ef2afe4cc"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05\\README.md",
+      "sha256": "4987f6e926e1e0844e8e31b9f490cd51febd2fd5a8786f07d8dfaa93b1b38c70"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "6f03135ad9f77a9599259cf59aa95b24225613796bac16ea04ab97a2ea0cf813"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "e76e5f8dd19f3d671a519b05dad3b4eb4080a856afc06c16b09e7dc759932405"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "477dee8b67be3bd28ef0377850bb7823a89b89f10502f88543cc0262ee5c492c"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "7fa2f3d142b47c64813d4b5e8c2ed24f0968eaf91ed4a94b2a48a4b21905e2e7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "e6d94ed288baaa3720d23f5a06879c347ddcde4f76e4872ff974a73e4a9e3879"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "e563f2865308ab47dd0c7c52eb9c492bb3f8a2d54a6112dec596c2fc4e4fd5c2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "a69194ab5dea267c793192663cdc83afb35d87140b3da220b9a93e0c4a4315d5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\gitvg\\bazaar\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "620bb1d609d5a9c504be05b4e2b1f30e3b6489a6e0aea3baedfc2a9c8da8eb09"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05\\README.md",
+      "sha256": "5b1716bc69d5b01e7da0beea3b257f9a53c70790f1ab1f75387232680bd94fde"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "db62f7de74f71a3c94854800e257cea5e83d6ac42e2a59f2d25d6d8aaf87c042"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "bfd0cd2723ae6e53e3ac6d1423a1c37bc445c2e7a27d1df7052961541de3fff8"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "8c3e84d839ee70025dac6d2d4b65440172fd9a68fb0311c6c030a6f6e8278263"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "5537fc1e10da884972da4ba90d11775fb978a2171ff3ddaa9d795872a51d5514"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "58e73ae52751bf0e67b0a7a5aee1dd5d9ae3fe7adf9ad31f1234ffac2fd5fe3d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "cd8c6c6302939c3ca1dedde65fe7d665b27c8129a4c162f2bb0c7e17c500a760"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "f583505c38fa98d1d37a1ccecf365b46b62a2131a85bb32f630f86e18dcbd7bf"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astra1\\upskilling\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "efa5b40f86f821598f79c619ad4397baa4429295dd10de4b56632722425daa93"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05\\README.md",
+      "sha256": "abe7f8e9efe41c1d67d147a964487a510444280eda7c097e4f6e9bba0978ae12"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "bda3a7d1966ed1ad698345850f2aff853786236a2fe6bab5ae0f0bd036637531"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "58777f52c040c5dcf6bed18d07e18154fbb3c3f4775127f549bf83254bcc909d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "08b0522a0acb68a3241c506bce5c90cd58a3264e8a6e337cea17058ec3935535"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "b757e8fc5eeb5868e4fccfa9a80fd5a582b27d598889850622b7e32c977fb90b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "b529a81f1a015bc69cf3c47f3c4944f98f6a27dbb0e94a5f5ca6d22e32ac888d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "023e49e4921e0282d57681ee8ad5bb8f033dd442cf32cc1ee610de7d0affea30"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "966023559190f142aea1dbdcd2f0c0ddda0b6921b998706f5e35e13d7b08b167"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\_Organized Desktop\\12 Other Projects\\aaa1\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "60be772c069d41a492a8f25f829a921a2c194f5d4f637426fb029c5d2d6d5ba3"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05\\README.md",
+      "sha256": "14fa3d825abd1971e99fed9190f380b0586cf42987650debee915056f408ed95"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "43621a0248e91856c5f04d3297af4d45af32d8cd4cad46cf5f7c2a2fcca73b0b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "3765ffef70a835ecb5ef98f19339027b29c03cc7165e7ae8a1cc3a96aa23b7e1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "352fa1f93a7f5ed650282bdf284ccc54c6d6863b0f75022f6b6e51bf674714b6"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "c700d0f228c41100bac22c8544063c584dbdc7b94bfac34f907fd251bcb52f24"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "9edcd1e1126a336dabc39294d01cd94a2835b272655659239e8b550620a675b0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "6aa0aecf8e3c3a50a494200ab3f364495b9ffa305fa374e94f94da4328f4df4a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "6ed6be5e10159e2a580a1a7ead2f7883186f12c0bdcba5bc93ed75bd4284a18d"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildevent\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "d0884d461aca38de304a08ae34044e4a9831bbfafc654c08a4b851531ad7b755"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05\\README.md",
+      "sha256": "33b0ae34c23a9e3d4528781f9a19dc33bd7186f45f53cf0fe0c238149bba04d7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "0303642b5a5bc2b93c3143a6d17a8ea5579ab24a12c9010d1c37df7ba042dd2b"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "aa75d9d231a202e184652e09f37d0a395cbb157c7cdd27936dc2c0837aae25a7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "d990de62c9aea27853b2cbaa46823cd9b2e3caeb15bff36d295a606d2cea8a65"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "f0c52c7903233385d1d9ea1176d747678b9db7aed151e4be15b55ea1ce8fe6c0"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "14acd80adc7df7bc84b77545c21d5566feeb4710c2db8992775e7359072bed45"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "1b2e7a8f0d8ca6f298d39a288ec78c927c80ffb52a98987e76ceb30277e1f739"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "d1e6af4a6a8345efa8e4bbef1aa2dad6f36be5618f7ce0df8bfd586e7589eb47"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\buildermentor\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "4d938fceff33c2c9dad8916dbbb5c038b082926a71a04be121b7500e01384d19"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05\\README.md",
+      "sha256": "f3f81a93781145086c86ced09bbcfc085804898aebba6443115e40816664ff6a"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05\\01-worked-design.md",
+      "sha256": "13740e5d4cc6d859af6d92483e882bb347aa2b16f8afc4fa452dae9cb8d94e29"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05\\02-contracts-data.md",
+      "sha256": "9d52a1eb9a5b1156da2ca594d329ec73cada86cee1a478740dd987e379f8c840"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05\\03-failure-recovery.md",
+      "sha256": "4d2c19bd5e64ab5f7eaa5d68a2896c2749148878f601b2adc25bf1cf0d3b0040"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05\\04-capacity.md",
+      "sha256": "9d1d6bc20fb39432bca892286b62dcf46b0efb64d7364355a4122c37276edaeb"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05\\capacity.json",
+      "sha256": "de81c13e639e090ee5e91fa390d78848c19954fa993115967911d477d9d532c5"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05\\05-design-decisions.md",
+      "sha256": "5640d3f617a656177ef55ebd9ae80b4d6f3ff1a25184a53e6aec24e44aed819f"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05\\06-interview-lab.md",
+      "sha256": "ed7c66f6af673e616ac689c3f5c92fc31432f505d50ca4056b97aee1b6a4dcb1"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\astraspacegameweb\\reinforcement\\system-design-05\\_answers\\REFERENCE.md",
+      "sha256": "9422945b45c7f3290a1287e1417f8a34a8d275d191d8bd838d9c1c70d3259223"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\system-design-05\\README.md",
+      "sha256": "3793bf88e56c4651d7a28ffb0fc63de714c682f708179163ac83c4a3ceecb9f2"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\system-design-05\\DESIGN-METHOD.md",
+      "sha256": "47234e96c278c5ae2cb6f53bb8b843787b3e058bc87f4f5be9a5d010d4546763"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\system-design-05\\CROSS-PROJECT-DRILLS.md",
+      "sha256": "672d5e5b97364aa862554f9e0a89408feb388a58b5a3353804ed8f17370d62a7"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\system-design-05\\REFERENCES.md",
+      "sha256": "a5375c3d30d553dd93eb23a2861f1ebbbb457a06646c2cf3624de178bf22bf31"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\system-design-05\\tools\\capacity.mjs",
+      "sha256": "c4284932e128ae96c8efdc729395894013ba9a4612c3facbba233e333a5c87cd"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\system-design-05\\tools\\check-capacity.mjs",
+      "sha256": "c205fd0ad028ef388a0e208745abef215da91f0fd6bc2193a930edc7643b6b40"
+    },
+    {
+      "path": "C:\\Users\\Owner\\Desktop\\opusorganize\\junior-reinforcement\\system-design-05\\VALIDATION.md",
+      "sha256": "bc443e7a1f7170d2786ed8ad50de6433cf5cd07143301b280d526dbf413c95e9"
+    }
+  ],
+  "verification": {
+    "capacity_tests_passed": 34,
+    "capacity_tests_failed": 0,
+    "preserved_snapshot_files": 3322,
+    "local_link_occurrences_checked_before_report": 238,
+    "mermaid_blocks": 10,
+    "total_new_files_including_manifest": 98
+  }
+}

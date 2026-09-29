@@ -1,0 +1,11 @@
+[
+  {
+    "command": [
+      "docker",
+      "version",
+      "--format",
+      "{{json .Server}}"
+    ],
+    "error": "Command '['docker', 'version', '--format', '{{json .Server}}']' timed out after 25 seconds"
+  }
+]
