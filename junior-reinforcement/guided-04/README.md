@@ -2,6 +2,8 @@
 
 Added 2026-09-28. This fourth block expands all ten reinforcement packs while preserving the [foundations](../README.md), [second block](../expansion-02/README.md), and [interview library](../interview-03/README.md). The [validation report](VALIDATION.md) records measured before/after content and preservation checks.
 
+> **Links below (checked 2026-10-06):** the project links are relative to the 2026-09-28 Desktop layout and do not resolve on GitHub. Every linked pack exists on GitHub. The [repo map in the top-level README](../README.md#where-the-packs-live-on-github-checked-2026-10-06) shows where each one lives (for example, `gitvg/bazaar` is in `elirc/gitvg` and `astra1` is in `elirc/helios-interplanetary`).
+
 | Order | Guided project pack | Runnable solved examples |
 |---|---|---|
 | 1 | [RouteIQ / lucasrouter](<../../../lucasrouter/reinforcement/guided-04/README.md>) | [Worked notebook](<../../../lucasrouter/reinforcement/guided-04/WORKED-NOTEBOOK.md>) |

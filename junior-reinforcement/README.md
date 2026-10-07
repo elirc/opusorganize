@@ -15,6 +15,25 @@ New material added 2026-09-26 to complement the existing Opus apprenticeship. Be
 | 9 | [ShipShape / buildermentor](<../../buildermentor/reinforcement/README.md>) | Evaluation arithmetic and evidence-backed AI quality claims |
 | 10 | [Warband / astraspacegameweb](<../../astraspacegameweb/reinforcement/README.md>) | Realtime hints, authoritative reads, and lifecycle cleanup |
 
+### Where the packs live on GitHub (checked 2026-10-06)
+
+The links above (and in the `expansion-02/`, `guided-04/`, `interview-03/` and `system-design-05/` READMEs) are relative to the 2026-09-26 Desktop layout, where this folder sat next to the project folders. They do not resolve on GitHub, and several of those Desktop folders have since moved. Each pack, including all four sub-packs, was confirmed to exist at these locations on `main`:
+
+| Desktop folder in the links | GitHub repo | Pack path |
+|---|---|---|
+| `lucasrouter` | [elirc/lucasrouter](https://github.com/elirc/lucasrouter/tree/main/reinforcement) | `reinforcement/` |
+| `perch` | [elirc/perch](https://github.com/elirc/perch/tree/main/reinforcement) | `reinforcement/` |
+| `grokbuildmultitenantproject` | [elirc/grok-build-multitenant](https://github.com/elirc/grok-build-multitenant/tree/main/reinforcement) | `reinforcement/` |
+| `gitjira-app` | [elirc/gitjira](https://github.com/elirc/gitjira/tree/main/reinforcement) | `reinforcement/` |
+| `gitvg/bazaar` | [elirc/gitvg](https://github.com/elirc/gitvg/tree/main/bazaar/reinforcement) | `bazaar/reinforcement/` (the standalone `elirc/bazaar` repo has no pack) |
+| `astra1` | [elirc/helios-interplanetary](https://github.com/elirc/helios-interplanetary/tree/main/upskilling/reinforcement) | `upskilling/reinforcement/` |
+| `_Organized Desktop/12 Other Projects/aaa1` | [elirc/aaa1](https://github.com/elirc/aaa1/tree/main/reinforcement) | `reinforcement/` |
+| `buildevent` | [elirc/build-event](https://github.com/elirc/build-event/tree/main/reinforcement) | `reinforcement/` |
+| `buildermentor` | [elirc/buildermentor](https://github.com/elirc/buildermentor/tree/main/reinforcement) | `reinforcement/` |
+| `astraspacegameweb` | [elirc/astraspacegameweb](https://github.com/elirc/astraspacegameweb/tree/main/reinforcement) | `reinforcement/` |
+
+To follow a relative link from a fresh clone, take the path after the Desktop folder name and open it in the repo in this table. For example, `../../astra1/upskilling/reinforcement/README.md` becomes `upskilling/reinforcement/README.md` in elirc/helios-interplanetary.
+
 Every pack contains a source map, focused foundations, an executable lab with a deliberately unfinished starter, independent contract tests, sealed reference code and reasoning, an app transfer exercise, a review challenge, and a checkpoint with spaced repetition.
 
 ## Start here

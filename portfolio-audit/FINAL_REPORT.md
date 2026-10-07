@@ -4,6 +4,11 @@
 MASTER_INVENTORY · PROJECT_MATRIX · EDUCATIONAL_CONTENT_INDEX · DUPLICATE_CLUSTERS · SKILL_MATRIX · GAP_ANALYSIS · PRIORITY_ROADMAP ·
 `projects/batch-01..14.md` (per-project evidence records with file paths).
 
+> **Status note (added 2026-10-06):** this report is a frozen snapshot from 2026-09-23 and should be read as a historical record.
+> - **Paths:** the Desktop and `_Organized Desktop` paths it cites have largely moved. Most projects are now standalone repos on github.com/elirc, sometimes under different names. For example, `.netstripe` is `dotnet-stripe`, astra1 is `helios-interplanetary`, and gitjira-app is `gitjira`.
+> - **Later work:** the B01–B07 apprenticeship, which started the same day, added training material to 31 projects. Its log and outcomes are in `../apprenticeship/PROGRESS.md` and `../batch1report/` to `../batch7report/`.
+> - **Counts:** figures like test-file and commit counts are as of 2026-09-23.
+
 ---
 
 ## 1. Executive summary

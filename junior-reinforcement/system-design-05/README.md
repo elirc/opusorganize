@@ -2,6 +2,8 @@
 
 This additive track turns the existing projects into focused system-design cases. It preserves the [original route](../README.md), [interview library](../interview-03/README.md), and [worked journals](../guided-04/README.md).
 
+> **Links below (checked 2026-10-06):** the project links are relative to the 2026-09-28 Desktop layout and do not resolve on GitHub. Every linked pack exists on GitHub. The [repo map in the top-level README](../README.md#where-the-packs-live-on-github-checked-2026-10-06) shows where each one lives (for example, `gitvg/bazaar` is in `elirc/gitvg` and `astra1` is in `elirc/helios-interplanetary`).
+
 | Order | Project design pack | Design problem |
 |---|---|---|
 | 1 | [RouteIQ / lucasrouter](<../../../lucasrouter/reinforcement/system-design-05/README.md>) | Design reliable delivery updates across devices and intermittent connectivity |

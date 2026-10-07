@@ -35,4 +35,5 @@ thinking.** Generic material (anything not naming the repo's own files/failure m
 
 ## Files in this folder
 - `MODIFIED_PROJECTS.md` — the report/list of every project modified in the B08 pass (paths, branches, commits, files).
+  *(Note 2026-10-06: this file is not in the repository. It was planned but never committed, and only 4 of 31 per-repo reports are in `batch8report/projects/`. See the B08 status note in `../apprenticeship/PROGRESS.md` for which repos have `learn/` on GitHub.)*
 - `../apprenticeship/COMPETENCY_GRAPH.md`, `PROGRESS.md`, `ADVICE.md` — the skill map, batch log, meta-advice.

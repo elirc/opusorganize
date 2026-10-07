@@ -1,6 +1,11 @@
 # Apprenticeship — Progress Log
 Resume rule: read this file; for the current batch, any project without `batch1report/projects/<name>.md` still needs its agent re-run (brief: `apprenticeship/B01_AGENT_BRIEF.md`).
 
+> **Incident-branch availability (checked on GitHub 2026-10-06 via `gh api …/branches`):** only **21** of the 92 `training/incidents/*` branches below are on GitHub.
+> - **On GitHub:** dotnet-stripe (001, 002), astraspacegameweb (001–005), buildermentor (001–005), helios-interplanetary (= astra1; 001, 002), aicallhelper (001, 002), aiheartbeat (001, 002), globehire (001, 002), stockade (= astra5; 001).
+> - **None pushed:** every other repo has no `training/*` branches on GitHub, including the `training/base/*` and `training/lab/*` bases that some labs depend on. This covers netdrop, netintercom, netramp, netauth, eShop, modular-monolith, gitjira-app, atlas, pulse, perch, bazaar, lucasrouter, outline, buildevent, relay, folio, aaa1, HNJOBTRACK, grokbuildmultitenant, meterforge, VGdemo and vg.
+> - **What to do:** the `training/` docs on `main` still describe those incidents, but the bug branches exist only in local clones, if anywhere. From a fresh clone, rebuild an incident from its ticket and sealed answer, or treat it as a reading exercise.
+
 ## B01 — Desktop .NET projects (started 2026-09-23)
 Tiers (chosen by Claude, user reviews in batch1report/REPORT.md):
 - LAB: netdrop, netintercom
@@ -111,3 +116,13 @@ Tiers: LAB meterforge (SQL Server track) · DRILL globehire, VGdemo (TS→.NET p
 Goal: junior on-ramp + agentic-era study guide (`learn/` folder) in all 31 B01–B07 repos; docs-only, no installs/builds.
 Brief: apprenticeship/B08_LEARN_BRIEF.md · reports → batch8report/projects/ · consolidation report → astradocs/MODIFIED_PROJECTS.md
 7 Opus agents launched 2026-09-26, one per batch group (B01–B07). Fable orchestrates/reviews.
+
+> **Status note (added 2026-10-06; this log was not updated after the B08 launch line above).** This repository snapshot (`dce83b8`, 2026-09-29) never records B08 as complete:
+> - `batch8report/projects/` holds 4 of the 31 per-repo reports (astra1, astraspacegameweb, netdrop, netintercom).
+> - `astradocs/MODIFIED_PROJECTS.md`, which `astradocs/README.md` lists, is not in the repo.
+>
+> I checked GitHub `main` for `learn/README.md` in all 31 repos, mapped to their elirc names. It exists in 14: dotnet-drop, dotnet-intercom, dotnet-stripe, dotnet-ramp, netarchitectureproject (`modular-monolith-with-ddd/learn/`), gitjira, astraspacegameweb, lucasrouter, helios-interplanetary, masteroutline (`outline/learn/`), aiheartbeat, gitvg (`relay/learn/`), aaa1, meterforge. It was not found in the other 17: dotnet-auth, eShop (netopen1), atlas, pulse, bazaar, folio, perch, build-event, buildermentor, aicallhelper, hnjobtrack, grok-build-multitenant, globehire, vgdemo, vg, stockade (= astra5), gravreviewboardjspy (= reviewboard). For atlas, pulse, bazaar and folio I checked both the standalone repos and the `elirc/gitvg` subfolders.
+>
+> Treat B08 as **partially delivered**. Missing `learn/` folders may exist only in local Desktop copies.
+>
+> Several local folder names in this log also differ on GitHub: netX → `elirc/dotnet-X`, astra1 → `elirc/helios-interplanetary`, gitjira-app → `elirc/gitjira`, buildevent → `elirc/build-event`, and the gitvg course `training/` trees are in `elirc/gitvg`.

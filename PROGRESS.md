@@ -89,3 +89,4 @@
 - B06 COMPLETE 2026-09-24 → batch6report/REPORT.md
 - B07 COMPLETE 2026-09-24 → batch7report/REPORT.md. Totals B01–B07: 31 projects, 92 incidents, 22 curriculum pages. Docker needs user action (WSL distro gone).
 - 2026-09-26: B08 learn pass started (7 Opus agents; learn/ folder in all 31 repos) — see apprenticeship/PROGRESS.md; astradocs/ created
+- 2026-10-06 (status note added during the docs-refinement pass): this log stops at the B08 launch. B08 was never marked complete. On GitHub `main`, `learn/README.md` was found in 14 of the 31 apprenticeship repos. Details are in the B08 status note in `apprenticeship/PROGRESS.md`. The audit files in `portfolio-audit/` are a frozen 2026-09-23 snapshot, and Desktop paths in them may no longer exist.

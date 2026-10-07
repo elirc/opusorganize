@@ -1,5 +1,7 @@
 # Batch 06 Report: tenant isolation enforced by the database, plus Python/FastAPI
 
+> **Status note (added 2026-10-06):** this report is a frozen record of the batch and was not updated afterwards. Not every `training/incidents/*` branch it describes is on GitHub: only 21 of the 92 from B01–B07 were pushed, and several projects now live under different elirc repo names. Before you try to check out an incident, see the incident-branch availability note at the top of [`apprenticeship/PROGRESS.md`](../apprenticeship/PROGRESS.md).
+
 *2026-09-24 · I ran `apprenticeship/BATCH_PROMPT.md` on 3 projects. App-level tenant scoping was already saturated, so this batch
 teaches the **backstop**: Postgres row-level security (RLS) and tenant-safe keys, plus a Python/FastAPI stack.
 Per-project detail is in `projects/<name>.md`. Shared outputs: `apprenticeship/curriculum/19–21` (new), `COMPETENCY_GRAPH.md` (updated after B07).*

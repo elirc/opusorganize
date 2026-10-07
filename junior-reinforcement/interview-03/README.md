@@ -2,6 +2,8 @@
 
 Added 2026-09-28. This third block preserves the [original reinforcement route](../README.md) and [second expansion](../expansion-02/README.md), and adds a substantially larger interview library to every project. The [validation report](VALIDATION.md) gives exact before/after Markdown word counts; the baseline includes both previous blocks.
 
+> **Links below (checked 2026-10-06):** the project links are relative to the 2026-09-28 Desktop layout and do not resolve on GitHub. Every linked pack exists on GitHub. The [repo map in the top-level README](../README.md#where-the-packs-live-on-github-checked-2026-10-06) shows where each one lives (for example, `gitvg/bazaar` is in `elirc/gitvg` and `astra1` is in `elirc/helios-interplanetary`).
+
 | Order | Project interview pack | New coding challenge |
 |---|---|---|
 | 1 | [RouteIQ / lucasrouter](<../../../lucasrouter/reinforcement/interview-03/README.md>) | Merge a stream of stop updates |

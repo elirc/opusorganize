@@ -2,6 +2,8 @@
 
 Added 2026-09-28. This second block preserves every file in the [first reinforcement path](../README.md) and adds two runnable labs per project, deeper boundary lessons, type and contract work, debugging cases, six transfer variations, and a bounded application capstone.
 
+> **Links below (checked 2026-10-06):** the project links are relative to the 2026-09-28 Desktop layout and do not resolve on GitHub. Every linked pack exists on GitHub. The [repo map in the top-level README](../README.md#where-the-packs-live-on-github-checked-2026-10-06) shows where each one lives (for example, `gitvg/bazaar` is in `elirc/gitvg` and `astra1` is in `elirc/helios-interplanetary`).
+
 | Order | Open the second block | Focus |
 |---|---|---|
 | 1 | [RouteIQ / lucasrouter](<../../../lucasrouter/reinforcement/expansion-02/README.md>) | Undo ownership and keyboard interaction |

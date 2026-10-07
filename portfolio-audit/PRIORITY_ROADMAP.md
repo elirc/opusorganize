@@ -1,5 +1,10 @@
 # Prioritized Roadmap — Mid → Senior apprenticeship
 
+> **Status note (added 2026-10-06).** This roadmap is a frozen output of the 2026-09-23 portfolio audit. It was not updated as work happened, so this repo cannot tell you whether the Week 0 hygiene items or the Wave 1 deliverables are done. Check the project repos themselves. Since this was written:
+> - The B01–B07 apprenticeship (2026-09-23/24) added `training/` trees and incident branches to 31 projects, including both Wave 1 flagships (see `../apprenticeship/PROGRESS.md`).
+> - Projects moved off the Desktop paths named below. On GitHub, gitjira-app is `elirc/gitjira`, astra1 (Helios) is `elirc/helios-interplanetary`, astra5 (Stockade) is `elirc/stockade`, Outline is `elirc/masteroutline` (`outline/`), eShop is `elirc/netopen1` (`eShop/`), and buildevent is `elirc/build-event`. atlas is `elirc/atlas`, but its apprenticeship `training/` tree is only in `elirc/gitvg` under `atlas/`.
+> - Numbers below, such as commit and test-file counts, are as of 2026-09-23.
+
 Principle: **depth on a few codebases you own, operated like production**, instead of more generated CRUD apps or more curricula.
 The CRUD-reliability fundamentals are already covered by `AstraOrganized2\fablereview\LEARNING_PATH.md` (Stages 0–4, ~30 projects).
 Treat that path as a *maintenance* track (1 session/week, max) and only for the items you haven't done.

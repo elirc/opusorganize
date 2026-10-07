@@ -3,6 +3,37 @@
 Rule: a concept gets a page here only when ≥2 projects' exercises need it. Pages are short and point at **worked examples in your own repos**
 (the exercises are where learning happens). Projects link here instead of re-explaining.
 
+**Page shape (since 2026-10-06).** Each page still opens with the short quick reference: the problem, the tools and the review questions. After that, each page adds:
+- a worked trace through one of your repos, with `elirc/<repo>: path:line` citations opened at a named commit;
+- the failure mode, step by step;
+- a Goal → **Check** ladder from junior to mid level;
+- one or two verified senior findings;
+- a debugging scenario.
+
+Claims from the original batch runs that have since changed are dated: "at B0N, 2026-09-2x … / at HEAD …". Nothing was compiled or run during this pass. Steps labelled "run locally" are predictions taken from the code and the incident docs.
+
+### Where the worked-example repos live now (checked 2026-10-06)
+
+The table below uses the **Desktop folder names from 2026-09-23/24**. On GitHub, several of those projects have different names:
+
+| Name used here | GitHub |
+|---|---|
+| netstripe / netintercom / netramp / netauth / netdrop | `elirc/dotnet-stripe`, `dotnet-intercom`, `dotnet-ramp`, `dotnet-auth`, `dotnet-drop` |
+| eShop | `elirc/netopen1` (`eShop/`) |
+| modular-monolith-with-ddd | `elirc/netarchitectureproject` (`modular-monolith-with-ddd/`) |
+| gitjira-app | `elirc/gitjira` |
+| atlas, bazaar, pulse, relay, folio | the app code is in the standalone repos, but the `training/` trees are only in `elirc/gitvg` (`atlas/`, `bazaar/`, …) |
+| astra1 (Helios) | `elirc/helios-interplanetary` |
+| astra5 (Stockade) | `elirc/stockade` |
+| outline | `elirc/masteroutline` (`outline/`) |
+| buildevent | `elirc/build-event` |
+| grokbuildmultitenantproject | `elirc/grok-build-multitenant` |
+| HNJOBTRACK, VGdemo | `elirc/hnjobtrack`, `elirc/vgdemo` |
+| reviewboard | `elirc/gravreviewboardjspy` |
+| others (lucasrouter, perch, buildermentor, aicallhelper, aiheartbeat, aaa1, vg, globehire, meterforge, buildwhiteboard) | same name under `elirc/` |
+
+Most `training/incidents/*` branches were never pushed: only 21 of 92 are on GitHub. See the note at the top of [`../PROGRESS.md`](../PROGRESS.md). The pages say so wherever a cited incident exists only as a written ticket.
+
 | # | Page | Worked examples (B01) |
 |---|---|---|
 | 01 | [Transactional outbox & failure windows](01-transactional-outbox.md) | eShop, modular-monolith-with-ddd, netintercom |

@@ -1,5 +1,7 @@
 # Batch 05 Report: durable execution, CRDT/offline sync, sagas
 
+> **Status note (added 2026-10-06):** this report is a frozen record of the batch and was not updated afterwards. Not every `training/incidents/*` branch it describes is on GitHub: only 21 of the 92 from B01–B07 were pushed, and several projects now live under different elirc repo names. Before you try to check out an incident, see the incident-branch availability note at the top of [`apprenticeship/PROGRESS.md`](../apprenticeship/PROGRESS.md).
+
 *2026-09-24 · I ran `apprenticeship/BATCH_PROMPT.md` on the three distributed-systems topics no earlier batch covered.
 Per-project detail is in `projects/<name>.md`. Shared outputs: `apprenticeship/curriculum/16–18` (new),
 `apprenticeship/COMPETENCY_GRAPH.md` (updated), `apprenticeship/PROGRESS.md`.*

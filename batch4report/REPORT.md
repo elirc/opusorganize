@@ -1,5 +1,7 @@
 # Batch 04 Report: load, AI features, agentic engineering
 
+> **Status note (added 2026-10-06):** this report is a frozen record of the batch and was not updated afterwards. Not every `training/incidents/*` branch it describes is on GitHub: only 21 of the 92 from B01–B07 were pushed, and several projects now live under different elirc repo names. Before you try to check out an incident, see the incident-branch availability note at the top of [`apprenticeship/PROGRESS.md`](../apprenticeship/PROGRESS.md).
+
 *2026-09-24 · I ran `apprenticeship/BATCH_PROMPT.md` on 4 projects covering the audit's "Wave 3": load and back-pressure,
 LLM-backed features, AI latency, and the safety of running coding agents. Per-project detail is in `projects/<name>.md`.
 Shared outputs: `apprenticeship/curriculum/14–15` (new), `apprenticeship/COMPETENCY_GRAPH.md` (rebuilt across B01–B04), `apprenticeship/PROGRESS.md`.*
